@@ -80,7 +80,9 @@ public class QueryHelper : IQueryHelper
     /// Group deliveries by status and count deliveries in each group
     /// </summary>
     public Dictionary<DeliveryStatus, int> CountsByDeliveryStatus(IEnumerable<Delivery> deliveries) =>
-        new(); //TODO: Завдання 7
+        deliveries
+            .GroupBy((e) => e.Status)
+            .ToDictionary((g) => g.Key, (g) => g.Count());
 
     /// <summary>
     /// Group deliveries by start-end city pairs and calculate average gap between end of loading period and start of arrival period (calculate in minutes)
