@@ -1,0 +1,1902 @@
+[
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Kharkiv",
+    "AverageGap": 29.863636363636363
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 24.4
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Luhansk",
+    "AverageGap": 28.48148148148148
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Donetsk",
+    "AverageGap": 29.275862068965516
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Dnipro",
+    "AverageGap": 21.428571428571427
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Lviv",
+    "AverageGap": 27.285714285714285
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Lviv",
+    "AverageGap": 29.785714285714285
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Chernihiv",
+    "AverageGap": 34.794117647058826
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Mariupol",
+    "AverageGap": 26.75
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Kharkiv",
+    "AverageGap": 27.846153846153847
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Mariupol",
+    "AverageGap": 33.90625
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Kyiv",
+    "AverageGap": 26.842105263157894
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 33.9375
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Odesa",
+    "AverageGap": 20.333333333333332
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Rivne",
+    "AverageGap": 29.517241379310345
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Kyiv",
+    "AverageGap": 24.318181818181817
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Luhansk",
+    "AverageGap": 31.555555555555557
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Kyiv",
+    "AverageGap": 29.555555555555557
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Luhansk",
+    "AverageGap": 33.1
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Kyiv",
+    "AverageGap": 26.88235294117647
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Mariupol",
+    "AverageGap": 26.137931034482758
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 35.310344827586206
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Dnipro",
+    "AverageGap": 26.675675675675677
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Luhansk",
+    "AverageGap": 24.08
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Luhansk",
+    "AverageGap": 27.115384615384617
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Odesa",
+    "AverageGap": 28.115384615384617
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Poltava",
+    "AverageGap": 32.36363636363637
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Kherson",
+    "AverageGap": 29.733333333333334
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Rivne",
+    "AverageGap": 32.75757575757576
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Rivne",
+    "AverageGap": 24.4
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Chernihiv",
+    "AverageGap": 29.724137931034484
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Cherkasy",
+    "AverageGap": 30.90625
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Poltava",
+    "AverageGap": 33.172413793103445
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Kherson",
+    "AverageGap": 26.75
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 28.84
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Rivne",
+    "AverageGap": 21.772727272727273
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Donetsk",
+    "AverageGap": 34.24242424242424
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Poltava",
+    "AverageGap": 30.137931034482758
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Kharkiv",
+    "AverageGap": 35.22222222222222
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Sumy",
+    "AverageGap": 26.115384615384617
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Donetsk",
+    "AverageGap": 31.878048780487806
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 29.56756756756757
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 28.11111111111111
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Luhansk",
+    "AverageGap": 29.5
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Sloviansk",
+    "AverageGap": 33.892857142857146
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 33.69565217391305
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Chernihiv",
+    "AverageGap": 28.678571428571427
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Kyiv",
+    "AverageGap": 31.59259259259259
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Kharkiv",
+    "AverageGap": 28.5
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Kharkiv",
+    "AverageGap": 25.296296296296298
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Kharkiv",
+    "AverageGap": 33
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Odesa",
+    "AverageGap": 27.863636363636363
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Kherson",
+    "AverageGap": 30.833333333333332
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Rivne",
+    "AverageGap": 27.642857142857142
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Chernihiv",
+    "AverageGap": 25.137931034482758
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Mariupol",
+    "AverageGap": 25.571428571428573
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 34.958333333333336
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Luhansk",
+    "AverageGap": 26.433333333333334
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Mariupol",
+    "AverageGap": 29.464285714285715
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Sloviansk",
+    "AverageGap": 36.6764705882353
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Mariupol",
+    "AverageGap": 30.541666666666668
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Odesa",
+    "AverageGap": 35.07692307692308
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Dnipro",
+    "AverageGap": 27.555555555555557
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Mariupol",
+    "AverageGap": 26.483870967741936
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Kherson",
+    "AverageGap": 31.2
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Sumy",
+    "AverageGap": 26.529411764705884
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Sumy",
+    "AverageGap": 26.833333333333332
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 30.46153846153846
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Kherson",
+    "AverageGap": 33.666666666666664
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Rivne",
+    "AverageGap": 25.692307692307693
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Sumy",
+    "AverageGap": 26.666666666666668
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Sloviansk",
+    "AverageGap": 32.57692307692308
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Kherson",
+    "AverageGap": 23.23076923076923
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Rivne",
+    "AverageGap": 31.75862068965517
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 28.958333333333332
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Donetsk",
+    "AverageGap": 27
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Kharkiv",
+    "AverageGap": 29.225806451612904
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Dnipro",
+    "AverageGap": 25.84
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Odesa",
+    "AverageGap": 27.92
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 30.857142857142858
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Kharkiv",
+    "AverageGap": 28.652173913043477
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Kyiv",
+    "AverageGap": 29.157894736842106
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Kyiv",
+    "AverageGap": 25.238095238095237
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Donetsk",
+    "AverageGap": 29.95
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Luhansk",
+    "AverageGap": 20.884615384615383
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 35.064516129032256
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Cherkasy",
+    "AverageGap": 30.52173913043478
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 32.03703703703704
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Lviv",
+    "AverageGap": 31.92
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 29.041666666666668
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 33.55555555555556
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Kyiv",
+    "AverageGap": 26.766666666666666
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Chernihiv",
+    "AverageGap": 31.238095238095237
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Sumy",
+    "AverageGap": 25.565217391304348
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Dnipro",
+    "AverageGap": 26.074074074074073
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Luhansk",
+    "AverageGap": 25.238095238095237
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Donetsk",
+    "AverageGap": 33.275862068965516
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Donetsk",
+    "AverageGap": 31.17391304347826
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Dnipro",
+    "AverageGap": 26.96551724137931
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 34.714285714285715
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Chernihiv",
+    "AverageGap": 34
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Odesa",
+    "AverageGap": 30.607142857142858
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Kharkiv",
+    "AverageGap": 24.05263157894737
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Rivne",
+    "AverageGap": 31.73076923076923
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Sloviansk",
+    "AverageGap": 31.125
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Dnipro",
+    "AverageGap": 30.96
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 26.774193548387096
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 28.029411764705884
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 30.161290322580644
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Rivne",
+    "AverageGap": 24.75
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Sumy",
+    "AverageGap": 28.678571428571427
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Dnipro",
+    "AverageGap": 30.323529411764707
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 34.108108108108105
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 21.129032258064516
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Lviv",
+    "AverageGap": 25.62162162162162
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Sumy",
+    "AverageGap": 23.125
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Rivne",
+    "AverageGap": 28.58823529411765
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Mariupol",
+    "AverageGap": 26.774193548387096
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 29.470588235294116
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 28.1
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Luhansk",
+    "AverageGap": 35.75
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Mariupol",
+    "AverageGap": 25.852941176470587
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Chernihiv",
+    "AverageGap": 38.90909090909091
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Kharkiv",
+    "AverageGap": 25.620689655172413
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 36.76470588235294
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Kherson",
+    "AverageGap": 28.958333333333332
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Dnipro",
+    "AverageGap": 35.59090909090909
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 28
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Donetsk",
+    "AverageGap": 34.92857142857143
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Sloviansk",
+    "AverageGap": 32.34615384615385
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Luhansk",
+    "AverageGap": 30.771428571428572
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Odesa",
+    "AverageGap": 28.391304347826086
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Cherkasy",
+    "AverageGap": 22.03846153846154
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 34.22727272727273
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Cherkasy",
+    "AverageGap": 31.68
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Luhansk",
+    "AverageGap": 27.705882352941178
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Mariupol",
+    "AverageGap": 27.181818181818183
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Sumy",
+    "AverageGap": 37.09090909090909
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 29.25
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Kherson",
+    "AverageGap": 32.22857142857143
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Odesa",
+    "AverageGap": 26.21212121212121
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 26.806451612903224
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 25.043478260869566
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Cherkasy",
+    "AverageGap": 35.80952380952381
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Chernihiv",
+    "AverageGap": 31.291666666666668
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 24.40909090909091
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Luhansk",
+    "AverageGap": 29
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Sumy",
+    "AverageGap": 36.25
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Sloviansk",
+    "AverageGap": 31.041666666666668
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 26.62962962962963
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Cherkasy",
+    "AverageGap": 22.291666666666668
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Lviv",
+    "AverageGap": 32.074074074074076
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 33.8235294117647
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Poltava",
+    "AverageGap": 31.096774193548388
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Rivne",
+    "AverageGap": 27.236842105263158
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 37
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Poltava",
+    "AverageGap": 29.94736842105263
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Kyiv",
+    "AverageGap": 31.347826086956523
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Odesa",
+    "AverageGap": 27.82758620689655
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 34.31578947368421
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 28.26086956521739
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Donetsk",
+    "AverageGap": 29.11111111111111
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Kherson",
+    "AverageGap": 26.48148148148148
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Sloviansk",
+    "AverageGap": 27.09090909090909
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 26.821428571428573
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Cherkasy",
+    "AverageGap": 29.785714285714285
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Mariupol",
+    "AverageGap": 32.2
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 29.73913043478261
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Kharkiv",
+    "AverageGap": 28.1
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 29.56
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Mariupol",
+    "AverageGap": 31.88235294117647
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Poltava",
+    "AverageGap": 32.84615384615385
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Kherson",
+    "AverageGap": 32.73076923076923
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Cherkasy",
+    "AverageGap": 30
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Chernihiv",
+    "AverageGap": 28.703703703703702
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Lviv",
+    "AverageGap": 29.2
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 30.1875
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Chernihiv",
+    "AverageGap": 26.607142857142858
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Dnipro",
+    "AverageGap": 23.96153846153846
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 24.95
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Mariupol",
+    "AverageGap": 32.46153846153846
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Lviv",
+    "AverageGap": 32.38095238095238
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Donetsk",
+    "AverageGap": 23
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Dnipro",
+    "AverageGap": 30
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Kyiv",
+    "AverageGap": 33.09375
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Kyiv",
+    "AverageGap": 30.76923076923077
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Sumy",
+    "AverageGap": 36.25
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Poltava",
+    "AverageGap": 29.764705882352942
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Sloviansk",
+    "AverageGap": 33.473684210526315
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 25.46153846153846
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Mariupol",
+    "AverageGap": 25.59090909090909
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Kyiv",
+    "AverageGap": 31.48
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Kherson",
+    "AverageGap": 24.29032258064516
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 32.08695652173913
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Kharkiv",
+    "AverageGap": 31.625
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Donetsk",
+    "AverageGap": 25.8
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Sloviansk",
+    "AverageGap": 27.444444444444443
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Kyiv",
+    "AverageGap": 26.90909090909091
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 28.513513513513512
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Kyiv",
+    "AverageGap": 32.96875
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 30.153846153846153
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Lviv",
+    "AverageGap": 28.48
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Cherkasy",
+    "AverageGap": 26.64516129032258
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Rivne",
+    "AverageGap": 30.363636363636363
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Kharkiv",
+    "AverageGap": 28.8
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Lviv",
+    "AverageGap": 29.444444444444443
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 32.642857142857146
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 30.575757575757574
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Cherkasy",
+    "AverageGap": 33.310344827586206
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Poltava",
+    "AverageGap": 30.933333333333334
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Odesa",
+    "AverageGap": 33.791666666666664
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Mariupol",
+    "AverageGap": 27.166666666666668
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Kherson",
+    "AverageGap": 30.625
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Sloviansk",
+    "AverageGap": 31.151515151515152
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Dnipro",
+    "AverageGap": 28.657894736842106
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Kherson",
+    "AverageGap": 32.6
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 30.176470588235293
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Sumy",
+    "AverageGap": 31.71875
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Sumy",
+    "AverageGap": 28.333333333333332
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Odesa",
+    "AverageGap": 34
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Luhansk",
+    "AverageGap": 30.24
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 24.27027027027027
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 24.76923076923077
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Dnipro",
+    "AverageGap": 25.807692307692307
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 29.2
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Donetsk",
+    "AverageGap": 30.03448275862069
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Odesa",
+    "AverageGap": 30.62857142857143
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 29.73076923076923
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Poltava",
+    "AverageGap": 30.620689655172413
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Dnipro",
+    "AverageGap": 25
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Kherson",
+    "AverageGap": 31.848484848484848
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 28.7
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Kyiv",
+    "AverageGap": 35.2962962962963
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 28.814814814814813
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Sloviansk",
+    "AverageGap": 32.21875
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Chernihiv",
+    "AverageGap": 29.41176470588235
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 36.2
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 23.52
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Odesa",
+    "AverageGap": 29.15
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Kharkiv",
+    "AverageGap": 34.09090909090909
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 33.09090909090909
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 27.14814814814815
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Kherson",
+    "AverageGap": 25
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 24.64
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Rivne",
+    "AverageGap": 34.857142857142854
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 28.333333333333332
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 29.22222222222222
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Poltava",
+    "AverageGap": 26.848484848484848
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 26.612903225806452
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Mariupol",
+    "AverageGap": 30.38095238095238
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Donetsk",
+    "AverageGap": 27.405405405405407
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 31.05263157894737
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Sloviansk",
+    "AverageGap": 27.869565217391305
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 29.708333333333332
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 32.6
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 33.5
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Cherkasy",
+    "AverageGap": 34.36666666666667
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Chernihiv",
+    "AverageGap": 34.12903225806452
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Donetsk",
+    "AverageGap": 27.35483870967742
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Rivne",
+    "AverageGap": 27.03846153846154
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Kharkiv",
+    "AverageGap": 30.04
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Odesa",
+    "AverageGap": 29.571428571428573
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Poltava",
+    "AverageGap": 25.77777777777778
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Kharkiv",
+    "AverageGap": 24.095238095238095
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 29.533333333333335
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 26.75
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Dnipro",
+    "AverageGap": 29
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Odesa",
+    "AverageGap": 30.32
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Kharkiv",
+    "AverageGap": 26.705882352941178
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Chernihiv",
+    "AverageGap": 31.129032258064516
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Cherkasy",
+    "AverageGap": 22.208333333333332
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Lviv",
+    "AverageGap": 31.37037037037037
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Sumy",
+    "AverageGap": 26.806451612903224
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Rivne",
+    "AverageGap": 31.14814814814815
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 34.07692307692308
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Cherkasy",
+    "AverageGap": 32.371428571428574
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Sumy",
+    "AverageGap": 36.74074074074074
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Donetsk",
+    "AverageGap": 33.583333333333336
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Poltava",
+    "AverageGap": 31.263157894736842
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Poltava",
+    "AverageGap": 25.428571428571427
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 33.92
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 30.44
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Rivne",
+    "AverageGap": 28.541666666666668
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 28.71875
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Cherkasy",
+    "AverageGap": 32
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Kherson",
+    "AverageGap": 29.551724137931036
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Donetsk",
+    "AverageGap": 36.44
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Odesa",
+    "AverageGap": 30.32
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Sloviansk",
+    "AverageGap": 25.352941176470587
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 39.857142857142854
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 29.21212121212121
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Rivne",
+    "AverageGap": 30.625
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Kherson",
+    "AverageGap": 28.79310344827586
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Poltava",
+    "AverageGap": 31.379310344827587
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Kharkiv",
+    "AverageGap": 27.833333333333332
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Odesa",
+    "AverageGap": 31
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Lviv",
+    "AverageGap": 25.933333333333334
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Chernihiv",
+    "AverageGap": 23.037037037037038
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Luhansk",
+    "AverageGap": 28.35
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Kyiv",
+    "AverageGap": 23.53125
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Mariupol",
+    "AverageGap": 29.44
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 37.611111111111114
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 31.857142857142858
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Sumy",
+    "AverageGap": 28.59090909090909
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Rivne",
+    "AverageGap": 30.571428571428573
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 36.36842105263158
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Sloviansk",
+    "AverageGap": 32.03846153846154
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Chernihiv",
+    "AverageGap": 24.36
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Cherkasy",
+    "AverageGap": 24.62962962962963
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Poltava",
+    "AverageGap": 29.869565217391305
+  },
+  {
+    "StartCity": "Sloviansk",
+    "EndCity": "Lviv",
+    "AverageGap": 18.555555555555557
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Lviv",
+    "AverageGap": 28.741935483870968
+  },
+  {
+    "StartCity": "Mykolaiv",
+    "EndCity": "Sumy",
+    "AverageGap": 24.846153846153847
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Donetsk",
+    "AverageGap": 34.57692307692308
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 26.96153846153846
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 27.133333333333333
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Dnipro",
+    "AverageGap": 31.192307692307693
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Sloviansk",
+    "AverageGap": 24
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 30.95
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Luhansk",
+    "AverageGap": 28.814814814814813
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Lviv",
+    "AverageGap": 34.19047619047619
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Luhansk",
+    "AverageGap": 33.0625
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Poltava",
+    "AverageGap": 32.142857142857146
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Kyiv",
+    "AverageGap": 31.047619047619047
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Kherson",
+    "AverageGap": 28.166666666666668
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Sumy",
+    "AverageGap": 27.85
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Rivne",
+    "AverageGap": 32.869565217391305
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Cherkasy",
+    "AverageGap": 26.136363636363637
+  },
+  {
+    "StartCity": "Dnipro",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 25
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Lviv",
+    "AverageGap": 34.0625
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Mariupol",
+    "AverageGap": 23.6
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 26.904761904761905
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Luhansk",
+    "AverageGap": 34.22222222222222
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Sumy",
+    "AverageGap": 34.75
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 29.344827586206897
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 28.115384615384617
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 32.31578947368421
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Sloviansk",
+    "AverageGap": 25.833333333333332
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Lviv",
+    "AverageGap": 21.5625
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Sloviansk",
+    "AverageGap": 27
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 32.76470588235294
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Poltava",
+    "AverageGap": 26.322580645161292
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Dnipro",
+    "AverageGap": 32.458333333333336
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Kyiv",
+    "AverageGap": 33.22857142857143
+  },
+  {
+    "StartCity": "Donetsk",
+    "EndCity": "Cherkasy",
+    "AverageGap": 37
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Cherkasy",
+    "AverageGap": 31.272727272727273
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 29.88888888888889
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 32.75
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Kyiv",
+    "AverageGap": 32.34782608695652
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Kryvyi Rih",
+    "AverageGap": 36.371428571428574
+  },
+  {
+    "StartCity": "Poltava",
+    "EndCity": "Dnipro",
+    "AverageGap": 27.846153846153847
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Donetsk",
+    "AverageGap": 28.15
+  },
+  {
+    "StartCity": "Lviv",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 31.571428571428573
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Chernihiv",
+    "AverageGap": 32.22727272727273
+  },
+  {
+    "StartCity": "Kharkiv",
+    "EndCity": "Sumy",
+    "AverageGap": 28.125
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Chernihiv",
+    "AverageGap": 28.291666666666668
+  },
+  {
+    "StartCity": "Chernihiv",
+    "EndCity": "Mariupol",
+    "AverageGap": 32.42307692307692
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 24.653846153846153
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Luhansk",
+    "AverageGap": 35.44444444444444
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Odesa",
+    "AverageGap": 31.516129032258064
+  },
+  {
+    "StartCity": "Kherson",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 34.31818181818182
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Chernihiv",
+    "AverageGap": 30.96551724137931
+  },
+  {
+    "StartCity": "Mariupol",
+    "EndCity": "Sloviansk",
+    "AverageGap": 29.16
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Kharkiv",
+    "AverageGap": 31.761904761904763
+  },
+  {
+    "StartCity": "Odesa",
+    "EndCity": "Poltava",
+    "AverageGap": 26.227272727272727
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Lviv",
+    "AverageGap": 31.636363636363637
+  },
+  {
+    "StartCity": "Vinnytsia",
+    "EndCity": "Donetsk",
+    "AverageGap": 27.304347826086957
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Zaporizhzhia",
+    "AverageGap": 26.375
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Odesa",
+    "AverageGap": 29.45
+  },
+  {
+    "StartCity": "Rivne",
+    "EndCity": "Sloviansk",
+    "AverageGap": 31.1875
+  },
+  {
+    "StartCity": "Zhytomyr",
+    "EndCity": "Dnipro",
+    "AverageGap": 20.235294117647058
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Mykolaiv",
+    "AverageGap": 33
+  },
+  {
+    "StartCity": "Sumy",
+    "EndCity": "Vinnytsia",
+    "AverageGap": 26.074074074074073
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Cherkasy",
+    "AverageGap": 26.375
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Lviv",
+    "AverageGap": 31.285714285714285
+  },
+  {
+    "StartCity": "Kyiv",
+    "EndCity": "Chernihiv",
+    "AverageGap": 27.666666666666668
+  },
+  {
+    "StartCity": "Cherkasy",
+    "EndCity": "Kherson",
+    "AverageGap": 34
+  },
+  {
+    "StartCity": "Kryvyi Rih",
+    "EndCity": "Zhytomyr",
+    "AverageGap": 30.333333333333332
+  },
+  {
+    "StartCity": "Zaporizhzhia",
+    "EndCity": "Lviv",
+    "AverageGap": 28.9
+  },
+  {
+    "StartCity": "Luhansk",
+    "EndCity": "Poltava",
+    "AverageGap": 31.142857142857142
+  }
+]

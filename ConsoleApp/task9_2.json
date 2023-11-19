@@ -1,0 +1,2402 @@
+[
+  {
+    "Id": "6ad1dc26-9e33-4bbe-a293-544ff8f06456",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Donetsk"
+      }
+    },
+    "ClientId": "d024a155-478a-4bca-99e9-37d9c7cd8f0c",
+    "Type": 0,
+    "PaymentId": "fa842169-3e72-4a36-ba69-b8bd81dd23b3",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T15:17:00",
+      "End": "2023-03-06T16:40:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T08:47:00",
+      "End": "2023-03-09T15:33:00"
+    },
+    "Status": 3,
+    "CargoType": "Machinery and mechanical appliances; electrical equipment; parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles"
+  },
+  {
+    "Id": "d38974de-a26b-4a65-91f4-2c5de4352707",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "d024a155-478a-4bca-99e9-37d9c7cd8f0c",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-06T14:20:00",
+      "End": "2023-03-06T15:33:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T10:18:00",
+      "End": "2023-03-09T15:24:00"
+    },
+    "Status": 8,
+    "CargoType": "Articles of stone, plaster, cement, asbestos, mica or similar materials; ceramic products; glass and glassware"
+  },
+  {
+    "Id": "d1efd814-6b53-4937-8469-59eb657b8242",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Luhansk"
+      }
+    },
+    "ClientId": "7d6d8769-b64a-48f2-a6e7-eb5a5c5a39b5",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T07:05:00",
+      "End": "2023-03-07T08:56:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T12:57:00",
+      "End": "2023-03-10T07:39:00"
+    },
+    "Status": 3,
+    "CargoType": "Vegetable products"
+  },
+  {
+    "Id": "901563de-243b-4952-b5b2-00f8df1f64ce",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Dnipro"
+      }
+    },
+    "ClientId": "aa5f29e8-5d5e-46a2-ae29-c2d9d9cbe7e6",
+    "Type": 0,
+    "PaymentId": "1c79ce7d-ebe5-46c2-bbb8-b058c7f3033d",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T23:50:00",
+      "End": "2023-03-07T01:14:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T13:58:00",
+      "End": "2023-03-10T00:09:00"
+    },
+    "Status": 0,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "129f306f-aba5-4e7c-bd2a-ffa06823e7c8",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Luhansk"
+      }
+    },
+    "ClientId": "d024a155-478a-4bca-99e9-37d9c7cd8f0c",
+    "Type": 0,
+    "PaymentId": "104980e8-a8af-4349-ac85-1d9819d0485e",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T22:59:00",
+      "End": "2023-03-07T00:12:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T14:42:00",
+      "End": "2023-03-10T00:35:00"
+    },
+    "Status": 8,
+    "CargoType": "Base metals and articles of base metal"
+  },
+  {
+    "Id": "5df40945-a6ea-476e-a2f4-0087cb52513f",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Donetsk"
+      }
+    },
+    "ClientId": "c4b1417a-0db4-4e12-b8f8-10353187b29e",
+    "Type": 0,
+    "PaymentId": "6ba85536-7354-498d-9bbb-cd3e65ccfaf9",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T22:25:00",
+      "End": "2023-03-06T23:42:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T15:34:00",
+      "End": "2023-03-09T23:44:00"
+    },
+    "Status": 5,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "61bdf2f8-9579-4d1c-8bdb-85113704147e",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Dnipro"
+      }
+    },
+    "ClientId": "57b7aa63-6b49-4b10-b6c9-6d3f3ca3b1c3",
+    "Type": 0,
+    "PaymentId": "cc1a52f9-0620-4422-8514-1b4762b1a461",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T13:38:00",
+      "End": "2023-03-07T15:14:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T18:05:00",
+      "End": "2023-03-10T15:09:00"
+    },
+    "Status": 0,
+    "CargoType": "Wood and articles of wood; wood charcoal; cork and articles of cork; manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork"
+  },
+  {
+    "Id": "91594710-cbae-492d-b48b-925944ab3785",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "aa5f29e8-5d5e-46a2-ae29-c2d9d9cbe7e6",
+    "Type": 0,
+    "PaymentId": "2c77befd-860f-4aec-aaf3-34701462fe89",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T01:28:00",
+      "End": "2023-03-07T02:39:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T18:36:00",
+      "End": "2023-03-10T02:21:00"
+    },
+    "Status": 8,
+    "CargoType": "Works of art, collectors\u0027 pieces and antiques"
+  },
+  {
+    "Id": "0a79ecf8-2298-45b9-90ad-13062928efd4",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "bcdb30a4-2594-4ea4-9a4f-15681c24e305",
+    "Type": 1,
+    "PaymentId": "fbb9e10d-7289-47bb-b533-516575d31052",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T00:38:00",
+      "End": "2023-03-07T02:08:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T19:52:00",
+      "End": "2023-03-10T02:02:00"
+    },
+    "Status": 2,
+    "CargoType": "Raw hides and skins, leather, furskins and articles thereof; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)"
+  },
+  {
+    "Id": "0473ff00-4638-405d-a065-ff94ab4c2cb4",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Dnipro"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 1,
+    "PaymentId": "3f9722a0-6281-494d-9ef9-c584c3f699c4",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T19:16:00",
+      "End": "2023-03-06T20:44:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T19:59:00",
+      "End": "2023-03-09T19:20:00"
+    },
+    "Status": 1,
+    "CargoType": "Plastics and articles thereof; rubber and articles thereof"
+  },
+  {
+    "Id": "df308f24-1af1-45cb-b156-f96906130eed",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "55a70a63-f8c3-4d9b-81d9-304d8b2a2a3f",
+    "Type": 1,
+    "PaymentId": "96f0ce02-ec2b-4015-897a-e460dfb1dbfc",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T10:22:00",
+      "End": "2023-03-07T11:37:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T21:25:00",
+      "End": "2023-03-10T10:53:00"
+    },
+    "Status": 4,
+    "CargoType": "Plastics and articles thereof; rubber and articles thereof"
+  },
+  {
+    "Id": "c4e4bea9-a6c4-4b81-bbfe-6414f3acc228",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Chernihiv"
+      }
+    },
+    "ClientId": "fe77b251-7b04-4e69-a7f4-44d0dc7f3278",
+    "Type": 0,
+    "PaymentId": "89cc816e-2a82-449f-a480-7fcb77832702",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T22:30:00",
+      "End": "2023-03-07T00:20:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T21:38:00",
+      "End": "2023-03-09T23:32:00"
+    },
+    "Status": 8,
+    "CargoType": "Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin"
+  },
+  {
+    "Id": "09e6dd4e-9453-4702-be85-22fdf0064c9d",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Sumy"
+      }
+    },
+    "ClientId": "4b3a81df-34fa-4a10-a23a-5e5ce5b4ec34",
+    "Type": 1,
+    "PaymentId": "f4521f77-9bc0-4dff-b6dd-f06138479c98",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T15:21:00",
+      "End": "2023-03-07T16:56:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T00:34:00",
+      "End": "2023-03-10T15:28:00"
+    },
+    "Status": 1,
+    "CargoType": "Raw hides and skins, leather, furskins and articles thereof; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)"
+  },
+  {
+    "Id": "7782cf57-2120-4d1b-b327-e8d5b6b4cc8e",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "963f4a43-9c17-4a8c-a5f5-02f036df835c",
+    "Type": 1,
+    "PaymentId": "32f8c635-e69d-499a-a0a1-d7a17d6f112b",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T04:58:00",
+      "End": "2023-03-07T06:31:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T02:00:00",
+      "End": "2023-03-10T05:37:00"
+    },
+    "Status": 2,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "62315e3c-728c-487f-87e4-023ba3957a85",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Vinnytsia"
+      }
+    },
+    "ClientId": "bcdb30a4-2594-4ea4-9a4f-15681c24e305",
+    "Type": 0,
+    "PaymentId": "21911bd8-f47a-4766-92e7-5d84d5b0a111",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T07:26:00",
+      "End": "2023-03-07T08:53:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T02:55:00",
+      "End": "2023-03-10T08:10:00"
+    },
+    "Status": 0,
+    "CargoType": "Footwear, headgear, umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof; prepared feathers and articles made therewith; artificial flowers; articles of human hair"
+  },
+  {
+    "Id": "98413a5e-a0a0-495d-a0a7-ccc81e8c4a91",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "4b3a81df-34fa-4a10-a23a-5e5ce5b4ec34",
+    "Type": 0,
+    "PaymentId": "6cfe9352-45a3-494f-8afa-f9a11616edf8",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T23:26:00",
+      "End": "2023-03-08T00:52:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T04:45:00",
+      "End": "2023-03-10T23:54:00"
+    },
+    "Status": 0,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "a3596197-05ca-4cbe-a71f-356db0ddb3ae",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "57b7aa63-6b49-4b10-b6c9-6d3f3ca3b1c3",
+    "Type": 1,
+    "PaymentId": "5c71b3da-ed40-4b80-bf76-79451a04e619",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T13:50:00",
+      "End": "2023-03-06T14:57:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T06:26:00",
+      "End": "2023-03-09T13:57:00"
+    },
+    "Status": 2,
+    "CargoType": "Textiles and textile articles"
+  },
+  {
+    "Id": "eecfe458-da53-4c8d-b1e0-54457bca3cdf",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "87143a2e-7f49-4700-ae7c-88b2a482539e",
+    "Type": 1,
+    "PaymentId": "aa5f867e-5331-4917-bb36-7b8f695b3208",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T22:41:00",
+      "End": "2023-03-08T00:40:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T07:48:00",
+      "End": "2023-03-10T23:31:00"
+    },
+    "Status": 5,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "47628eaf-7717-4f5d-a5e6-7bb272b888c5",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Donetsk"
+      }
+    },
+    "ClientId": "851d00db-56f7-4cd1-9e7a-f2f9a317d876",
+    "Type": 0,
+    "PaymentId": "592f5ea0-5577-4476-ace4-58cdfa8774a9",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T00:07:00",
+      "End": "2023-03-08T01:25:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T10:00:00",
+      "End": "2023-03-11T01:11:00"
+    },
+    "Status": 8,
+    "CargoType": "Footwear, headgear, umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof; prepared feathers and articles made therewith; artificial flowers; articles of human hair"
+  },
+  {
+    "Id": "d6b06702-6404-40e0-b919-989b63ed6a1d",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "e6d09b0e-3e56-4336-8c47-f1f93498aeb6",
+    "Type": 1,
+    "PaymentId": "b7a9c7e2-13c6-4d2c-bb1c-9521f662d20f",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T10:27:00",
+      "End": "2023-03-07T11:32:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T10:22:00",
+      "End": "2023-03-10T12:17:00"
+    },
+    "Status": 4,
+    "CargoType": "Miscellaneous manufactured articles"
+  },
+  {
+    "Id": "b1b10efc-e2f1-4f60-8842-25c907262c1c",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Chernihiv"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 0,
+    "PaymentId": "970621f0-7cfb-4656-82a8-880dfa54e600",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T01:15:00",
+      "End": "2023-03-07T03:11:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T11:35:00",
+      "End": "2023-03-10T02:03:00"
+    },
+    "Status": 3,
+    "CargoType": "Articles of stone, plaster, cement, asbestos, mica or similar materials; ceramic products; glass and glassware"
+  },
+  {
+    "Id": "e859f390-94e5-4247-aac0-d12e7a612db0",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "c4b1417a-0db4-4e12-b8f8-10353187b29e",
+    "Type": 1,
+    "PaymentId": "f7a5fd9b-692e-432e-bb0b-a1cb439390e8",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T04:02:00",
+      "End": "2023-03-08T05:36:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T12:00:00",
+      "End": "2023-03-11T05:56:00"
+    },
+    "Status": 0,
+    "CargoType": "Live animals"
+  },
+  {
+    "Id": "94ed0407-4087-4d65-bacb-099d52ef22bf",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Rivne"
+      }
+    },
+    "ClientId": "55a70a63-f8c3-4d9b-81d9-304d8b2a2a3f",
+    "Type": 0,
+    "PaymentId": "b61aea58-81d3-434d-b845-f15ea11460fa",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T09:16:00",
+      "End": "2023-03-08T10:35:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T12:58:00",
+      "End": "2023-03-11T10:21:00"
+    },
+    "Status": 6,
+    "CargoType": "Live animals"
+  },
+  {
+    "Id": "c08ef182-3916-438f-b9b0-509f9902e3f7",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Mykolaiv"
+      }
+    },
+    "ClientId": "963f4a43-9c17-4a8c-a5f5-02f036df835c",
+    "Type": 1,
+    "PaymentId": "9715f550-2ccf-4a9b-a46e-03b3d5d707d5",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T18:39:00",
+      "End": "2023-03-06T20:35:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T13:25:00",
+      "End": "2023-03-09T20:38:00"
+    },
+    "Status": 0,
+    "CargoType": "Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin"
+  },
+  {
+    "Id": "ad846802-b9f3-4ae1-bac0-8d744633dabb",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Chernihiv"
+      }
+    },
+    "ClientId": "46e566c2-8bc2-4c1a-9b9d-14e3ecb0151e",
+    "Type": 0,
+    "PaymentId": "d13f656d-0dbc-4071-aeec-17793fd97281",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T13:50:00",
+      "End": "2023-03-06T15:31:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T14:19:00",
+      "End": "2023-03-09T14:03:00"
+    },
+    "Status": 6,
+    "CargoType": "Footwear, headgear, umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof; prepared feathers and articles made therewith; artificial flowers; articles of human hair"
+  },
+  {
+    "Id": "6b534bd1-8161-40af-bfc8-3343b0098ced",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "6bb1f6c7-6dc2-47c3-bd10-6c81e005e974",
+    "Type": 0,
+    "PaymentId": "cb525b2e-c915-4060-ab7e-651e8c72c470",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T15:20:00",
+      "End": "2023-03-07T16:52:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T15:07:00",
+      "End": "2023-03-10T16:31:00"
+    },
+    "Status": 8,
+    "CargoType": "Footwear, headgear, umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof; prepared feathers and articles made therewith; artificial flowers; articles of human hair"
+  },
+  {
+    "Id": "35148ffc-57ab-4967-8780-862117ff3515",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kyiv"
+      }
+    },
+    "ClientId": "fe77b251-7b04-4e69-a7f4-44d0dc7f3278",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T10:08:00",
+      "End": "2023-03-07T11:41:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T17:47:00",
+      "End": "2023-03-10T11:56:00"
+    },
+    "Status": 3,
+    "CargoType": "Vegetable products"
+  },
+  {
+    "Id": "63fe503d-7db7-433a-8438-99a8ddae77ef",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kharkiv"
+      }
+    },
+    "ClientId": "57b7aa63-6b49-4b10-b6c9-6d3f3ca3b1c3",
+    "Type": 0,
+    "PaymentId": "a2a6d44d-fc80-4f29-9923-6f644411a3da",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T05:34:00",
+      "End": "2023-03-07T06:45:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T17:47:00",
+      "End": "2023-03-10T06:58:00"
+    },
+    "Status": 3,
+    "CargoType": "Live animals"
+  },
+  {
+    "Id": "8fdf8a2f-9e0b-4100-a19e-5b7ac3bf3eda",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Zhytomyr"
+      }
+    },
+    "ClientId": "7d6d8769-b64a-48f2-a6e7-eb5a5c5a39b5",
+    "Type": 1,
+    "PaymentId": "e53527e5-931a-439e-9f7f-873feea3e11f",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T11:51:00",
+      "End": "2023-03-07T13:35:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T18:11:00",
+      "End": "2023-03-10T13:17:00"
+    },
+    "Status": 8,
+    "CargoType": "Wood and articles of wood; wood charcoal; cork and articles of cork; manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork"
+  },
+  {
+    "Id": "4ae6959f-87fa-4d78-9564-ac436198e471",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "963f4a43-9c17-4a8c-a5f5-02f036df835c",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T00:27:00",
+      "End": "2023-03-07T02:07:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T18:15:00",
+      "End": "2023-03-10T01:37:00"
+    },
+    "Status": 3,
+    "CargoType": "Live animals"
+  },
+  {
+    "Id": "d7e6992b-5824-4837-b989-42708eda68c8",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Vinnytsia"
+      }
+    },
+    "ClientId": "1c96f37d-775d-43c8-8b13-c0337d4e5e9d",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-08T07:40:00",
+      "End": "2023-03-08T09:21:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T19:43:00",
+      "End": "2023-03-11T09:07:00"
+    },
+    "Status": 5,
+    "CargoType": "Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard; paper and paperboard and articles thereof"
+  },
+  {
+    "Id": "f3ac1272-384b-4eae-bc75-b4bc78b7616f",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Zhytomyr"
+      }
+    },
+    "ClientId": "4ce4bb70-7280-4b6f-a5c5-5b5bb26b5d70",
+    "Type": 1,
+    "PaymentId": "bd1f0408-c694-4fad-8753-f4326f17ee3f",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T12:57:00",
+      "End": "2023-03-08T14:00:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T23:11:00",
+      "End": "2023-03-11T13:15:00"
+    },
+    "Status": 7,
+    "CargoType": "Raw hides and skins, leather, furskins and articles thereof; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)"
+  },
+  {
+    "Id": "e34af844-83b3-493b-bf2b-b652744ec7ab",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Sumy"
+      }
+    },
+    "ClientId": "851d00db-56f7-4cd1-9e7a-f2f9a317d876",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T12:17:00",
+      "End": "2023-03-07T14:01:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T23:13:00",
+      "End": "2023-03-10T12:32:00"
+    },
+    "Status": 6,
+    "CargoType": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; clocks and watches; musical instruments; parts and accessories thereof"
+  },
+  {
+    "Id": "95270b89-b03e-4812-bc9b-998e9b801c21",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Dnipro"
+      }
+    },
+    "ClientId": "4ce4bb70-7280-4b6f-a5c5-5b5bb26b5d70",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-08T06:15:00",
+      "End": "2023-03-08T07:32:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T00:19:00",
+      "End": "2023-03-11T06:51:00"
+    },
+    "Status": 2,
+    "CargoType": "Footwear, headgear, umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof; prepared feathers and articles made therewith; artificial flowers; articles of human hair"
+  },
+  {
+    "Id": "f457e2ff-9edc-4513-82a9-a8fe4dcb83c8",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "f81c98b8-96ba-4bfa-a2b3-78dcfc8a82a1",
+    "Type": 1,
+    "PaymentId": "734e0a66-1e7d-4a42-84fe-e1c2ddbec1cd",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T17:53:00",
+      "End": "2023-03-08T19:50:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T01:49:00",
+      "End": "2023-03-11T18:06:00"
+    },
+    "Status": 8,
+    "CargoType": "Machinery and mechanical appliances; electrical equipment; parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles"
+  },
+  {
+    "Id": "e35b28cb-2127-42a9-af78-822a479a1435",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kyiv"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 1,
+    "PaymentId": "a16039c7-8b94-448c-8300-2cd7b69c10c7",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T14:22:00",
+      "End": "2023-03-06T16:19:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T02:21:00",
+      "End": "2023-03-09T15:47:00"
+    },
+    "Status": 3,
+    "CargoType": "Footwear, headgear, umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof; prepared feathers and articles made therewith; artificial flowers; articles of human hair"
+  },
+  {
+    "Id": "9a371c29-8bfc-452a-a378-7c16092009d6",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Odesa"
+      }
+    },
+    "ClientId": "6f06877e-d514-48a3-a22f-dc6d78aadd9f",
+    "Type": 0,
+    "PaymentId": "9d66cc64-2442-459a-9e14-131f589d1ca9",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T20:42:00",
+      "End": "2023-03-08T21:49:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T03:48:00",
+      "End": "2023-03-11T22:19:00"
+    },
+    "Status": 7,
+    "CargoType": "Vegetable products"
+  },
+  {
+    "Id": "f1283017-0454-4575-be95-316ccefda7b6",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Vinnytsia"
+      }
+    },
+    "ClientId": "55a70a63-f8c3-4d9b-81d9-304d8b2a2a3f",
+    "Type": 0,
+    "PaymentId": "e5f34f93-c830-4800-acdc-45b46688e741",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T00:44:00",
+      "End": "2023-03-07T01:58:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T04:10:00",
+      "End": "2023-03-10T02:17:00"
+    },
+    "Status": 7,
+    "CargoType": "Works of art, collectors\u0027 pieces and antiques"
+  },
+  {
+    "Id": "1f349ba1-1b54-4bdd-b3c3-8732caa862eb",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "87143a2e-7f49-4700-ae7c-88b2a482539e",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-06T20:55:00",
+      "End": "2023-03-06T22:00:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T08:35:00",
+      "End": "2023-03-09T21:39:00"
+    },
+    "Status": 3,
+    "CargoType": "Works of art, collectors\u0027 pieces and antiques"
+  },
+  {
+    "Id": "e64da188-ad71-4b0b-b5f4-4b3715d32b6f",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Mykolaiv"
+      }
+    },
+    "ClientId": "4ce4bb70-7280-4b6f-a5c5-5b5bb26b5d70",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T07:29:00",
+      "End": "2023-03-07T08:52:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T09:14:00",
+      "End": "2023-03-10T09:19:00"
+    },
+    "Status": 3,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "04e14c99-16b6-45bc-91a3-c7032bdc17e5",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Chernihiv"
+      }
+    },
+    "ClientId": "e6d09b0e-3e56-4336-8c47-f1f93498aeb6",
+    "Type": 0,
+    "PaymentId": "b2e0097d-4a61-4d40-83ce-56203ad7fc43",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T08:27:00",
+      "End": "2023-03-08T09:55:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T09:44:00",
+      "End": "2023-03-11T09:43:00"
+    },
+    "Status": 2,
+    "CargoType": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; clocks and watches; musical instruments; parts and accessories thereof"
+  },
+  {
+    "Id": "3948bc44-c51c-4bbc-ba1d-d4f07059fc22",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Vinnytsia"
+      }
+    },
+    "ClientId": "f3b51df3-ff7c-4c67-a7af-89d159c2124d",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-08T12:54:00",
+      "End": "2023-03-08T14:20:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T09:59:00",
+      "End": "2023-03-11T14:49:00"
+    },
+    "Status": 0,
+    "CargoType": "Prepared foodstuffs; beverages, spirits and vinegar; tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body"
+  },
+  {
+    "Id": "64901871-569d-4f2d-a5ed-b666f421a860",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "c4b1417a-0db4-4e12-b8f8-10353187b29e",
+    "Type": 1,
+    "PaymentId": "91b87e75-fbdc-4388-820e-2e994f8b6d54",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T20:04:00",
+      "End": "2023-03-06T21:21:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T10:05:00",
+      "End": "2023-03-09T20:28:00"
+    },
+    "Status": 0,
+    "CargoType": "Textiles and textile articles"
+  },
+  {
+    "Id": "48df23f5-8651-4381-844b-87aec74c1ad3",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "e6d09b0e-3e56-4336-8c47-f1f93498aeb6",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T03:53:00",
+      "End": "2023-03-07T05:07:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T11:31:00",
+      "End": "2023-03-10T05:18:00"
+    },
+    "Status": 2,
+    "CargoType": "Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin"
+  },
+  {
+    "Id": "60bf1628-ec02-417f-88d6-87fc8146fb62",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Luhansk"
+      }
+    },
+    "ClientId": "c4b1417a-0db4-4e12-b8f8-10353187b29e",
+    "Type": 1,
+    "PaymentId": "1ef8f80a-d004-4b07-a4de-b671bcf9d2a8",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T02:40:00",
+      "End": "2023-03-09T04:13:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T12:35:00",
+      "End": "2023-03-12T03:22:00"
+    },
+    "Status": 7,
+    "CargoType": "Products of the chemical or allied industries"
+  },
+  {
+    "Id": "025a630f-680d-4c37-881c-7a7020269ee3",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Sumy"
+      }
+    },
+    "ClientId": "c4b1417a-0db4-4e12-b8f8-10353187b29e",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-09T09:28:00",
+      "End": "2023-03-09T11:01:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T13:06:00",
+      "End": "2023-03-12T09:28:00"
+    },
+    "Status": 7,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "9f39e83c-ac3c-45fa-b972-0a77ee953df6",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 0,
+    "PaymentId": "b205ce1d-3edc-45ad-ad1e-2ead06686f12",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T18:53:00",
+      "End": "2023-03-08T20:43:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T13:08:00",
+      "End": "2023-03-11T19:15:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "6f3a3629-49d9-4143-85d9-2d96e35e41c6",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Sumy"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-06T14:59:00",
+      "End": "2023-03-06T16:31:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T13:17:00",
+      "End": "2023-03-09T16:43:00"
+    },
+    "Status": 5,
+    "CargoType": "Wood and articles of wood; wood charcoal; cork and articles of cork; manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork"
+  },
+  {
+    "Id": "2ee58924-0670-4319-916f-9fdae14163ea",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Odesa"
+      }
+    },
+    "ClientId": "6bb1f6c7-6dc2-47c3-bd10-6c81e005e974",
+    "Type": 0,
+    "PaymentId": "15afb321-d96c-4876-a4fc-70916a5cb286",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T23:54:00",
+      "End": "2023-03-09T01:18:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T13:26:00",
+      "End": "2023-03-12T00:06:00"
+    },
+    "Status": 3,
+    "CargoType": "Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin"
+  },
+  {
+    "Id": "3bb9836b-6650-4a1d-8bf9-afe9a747bc6b",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kharkiv"
+      }
+    },
+    "ClientId": "d024a155-478a-4bca-99e9-37d9c7cd8f0c",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T13:58:00",
+      "End": "2023-03-07T15:12:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T14:08:00",
+      "End": "2023-03-10T14:54:00"
+    },
+    "Status": 6,
+    "CargoType": "Raw hides and skins, leather, furskins and articles thereof; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)"
+  },
+  {
+    "Id": "60f2953f-8dee-41bd-85ae-44ccb1e8b854",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Cherkasy"
+      }
+    },
+    "ClientId": "f2467cf2-2f3e-4fc9-b6d8-6678ba2a29f3",
+    "Type": 1,
+    "PaymentId": "c587fd41-83ec-408d-8906-3c3827e331c1",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T00:47:00",
+      "End": "2023-03-07T02:05:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T14:47:00",
+      "End": "2023-03-10T01:59:00"
+    },
+    "Status": 0,
+    "CargoType": "Vegetable products"
+  },
+  {
+    "Id": "bc7cc48d-120f-4b60-95ac-85d215515a2c",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kharkiv"
+      }
+    },
+    "ClientId": "f2467cf2-2f3e-4fc9-b6d8-6678ba2a29f3",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-06T20:44:00",
+      "End": "2023-03-06T22:03:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T16:49:00",
+      "End": "2023-03-09T21:31:00"
+    },
+    "Status": 6,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "fa87824c-94bd-43cc-8cc8-317f2b4a4a55",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "6f06877e-d514-48a3-a22f-dc6d78aadd9f",
+    "Type": 1,
+    "PaymentId": "e538e41c-bcf7-4e9a-94b5-792607d72ae1",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T19:25:00",
+      "End": "2023-03-06T21:03:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T17:38:00",
+      "End": "2023-03-09T20:09:00"
+    },
+    "Status": 7,
+    "CargoType": "Prepared foodstuffs; beverages, spirits and vinegar; tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body"
+  },
+  {
+    "Id": "24734d26-ca07-47f2-81b9-90b6c1bb9e9e",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "4ce4bb70-7280-4b6f-a5c5-5b5bb26b5d70",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-09T10:31:00",
+      "End": "2023-03-09T11:36:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T17:43:00",
+      "End": "2023-03-12T11:29:00"
+    },
+    "Status": 3,
+    "CargoType": "Prepared foodstuffs; beverages, spirits and vinegar; tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body"
+  },
+  {
+    "Id": "a969ffd1-0207-4d0f-b3a1-38d45a6019fa",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Sumy"
+      }
+    },
+    "ClientId": "55a70a63-f8c3-4d9b-81d9-304d8b2a2a3f",
+    "Type": 1,
+    "PaymentId": "e83666e7-da97-4d36-b69a-2e877c63fd47",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T13:32:00",
+      "End": "2023-03-08T15:19:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T17:44:00",
+      "End": "2023-03-11T14:53:00"
+    },
+    "Status": 1,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "da474832-64bf-4a97-b6e0-b7f02e159f65",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "6f06877e-d514-48a3-a22f-dc6d78aadd9f",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T22:22:00",
+      "End": "2023-03-07T23:40:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T17:54:00",
+      "End": "2023-03-10T22:36:00"
+    },
+    "Status": 6,
+    "CargoType": "Live animals"
+  },
+  {
+    "Id": "98e2e4b5-987d-4612-8064-f332532672d4",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Donetsk"
+      }
+    },
+    "ClientId": "4ce4bb70-7280-4b6f-a5c5-5b5bb26b5d70",
+    "Type": 1,
+    "PaymentId": "80de958d-3dfe-4613-bf09-d8687a00421e",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T20:29:00",
+      "End": "2023-03-07T21:53:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T18:12:00",
+      "End": "2023-03-10T21:00:00"
+    },
+    "Status": 1,
+    "CargoType": "Machinery and mechanical appliances; electrical equipment; parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles"
+  },
+  {
+    "Id": "7531a43e-6fe4-49ee-b603-5c5b02e58b9a",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Odesa"
+      }
+    },
+    "ClientId": "0e0b7048-cb7c-4046-9d7c-2051b07c7e05",
+    "Type": 0,
+    "PaymentId": "82c1a1b6-cd5c-4f0a-9448-0712e8a376c9",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T16:10:00",
+      "End": "2023-03-09T17:31:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T19:46:00",
+      "End": "2023-03-12T16:59:00"
+    },
+    "Status": 6,
+    "CargoType": "Plastics and articles thereof; rubber and articles thereof"
+  },
+  {
+    "Id": "7542f7a8-079a-4187-ae75-987310d58687",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Mykolaiv"
+      }
+    },
+    "ClientId": "aa5f29e8-5d5e-46a2-ae29-c2d9d9cbe7e6",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T19:26:00",
+      "End": "2023-03-07T21:14:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T20:42:00",
+      "End": "2023-03-10T20:17:00"
+    },
+    "Status": 2,
+    "CargoType": "Wood and articles of wood; wood charcoal; cork and articles of cork; manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork"
+  },
+  {
+    "Id": "d87fce90-58fe-44eb-841b-56e02f71621e",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "7d6d8769-b64a-48f2-a6e7-eb5a5c5a39b5",
+    "Type": 1,
+    "PaymentId": "491290f3-253b-44f4-abf7-de72d1be20a6",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T11:26:00",
+      "End": "2023-03-08T12:49:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T22:11:00",
+      "End": "2023-03-11T11:46:00"
+    },
+    "Status": 0,
+    "CargoType": "Works of art, collectors\u0027 pieces and antiques"
+  },
+  {
+    "Id": "d649a127-ee75-490b-81ea-c712ce1a410e",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Cherkasy"
+      }
+    },
+    "ClientId": "4ce4bb70-7280-4b6f-a5c5-5b5bb26b5d70",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T19:40:00",
+      "End": "2023-03-07T21:28:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T22:49:00",
+      "End": "2023-03-10T21:05:00"
+    },
+    "Status": 3,
+    "CargoType": "Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard; paper and paperboard and articles thereof"
+  },
+  {
+    "Id": "92e54151-481f-4891-af32-88e4958b4d0a",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "87143a2e-7f49-4700-ae7c-88b2a482539e",
+    "Type": 1,
+    "PaymentId": "086862b6-f29e-43f0-b819-7f4406da34b8",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T08:52:00",
+      "End": "2023-03-07T09:56:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T22:55:00",
+      "End": "2023-03-10T09:03:00"
+    },
+    "Status": 6,
+    "CargoType": "Vehicles, aircraft, vessels and associated transport equipment"
+  },
+  {
+    "Id": "3de33e63-a8e7-417c-9eba-07ec55cefc16",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "7d6d8769-b64a-48f2-a6e7-eb5a5c5a39b5",
+    "Type": 1,
+    "PaymentId": "8cf76bf0-69bb-4b73-8daf-4a49d9f6e35a",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T01:35:00",
+      "End": "2023-03-07T03:05:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T23:19:00",
+      "End": "2023-03-10T03:19:00"
+    },
+    "Status": 4,
+    "CargoType": "Vehicles, aircraft, vessels and associated transport equipment"
+  },
+  {
+    "Id": "4aaaf6c8-cf1b-476e-8315-dc34ce3eb18a",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Dnipro"
+      }
+    },
+    "ClientId": "963f4a43-9c17-4a8c-a5f5-02f036df835c",
+    "Type": 0,
+    "PaymentId": "78d7c83a-adc3-4792-8a55-b4bfa920ef17",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T05:57:00",
+      "End": "2023-03-07T07:19:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T00:32:00",
+      "End": "2023-03-10T07:54:00"
+    },
+    "Status": 2,
+    "CargoType": "Miscellaneous manufactured articles"
+  },
+  {
+    "Id": "6959bf39-9c2f-49bc-b5f4-faf46f4cd193",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "46c12c24-6ec3-44e1-9189-dc7d3638a60c",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-08T03:21:00",
+      "End": "2023-03-08T04:21:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T00:38:00",
+      "End": "2023-03-11T05:14:00"
+    },
+    "Status": 2,
+    "CargoType": "Wood and articles of wood; wood charcoal; cork and articles of cork; manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork"
+  },
+  {
+    "Id": "da422105-8fb7-44ef-ba3e-81850b8cca85",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kharkiv"
+      }
+    },
+    "ClientId": "f2467cf2-2f3e-4fc9-b6d8-6678ba2a29f3",
+    "Type": 1,
+    "PaymentId": "1fdcb5d5-59fa-4f3e-aa18-b3c6ee28aa0f",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T14:33:00",
+      "End": "2023-03-08T15:47:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T02:15:00",
+      "End": "2023-03-11T14:49:00"
+    },
+    "Status": 5,
+    "CargoType": "Wood and articles of wood; wood charcoal; cork and articles of cork; manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork"
+  },
+  {
+    "Id": "de4619fc-4ca4-414a-b462-edb0e392c8b8",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "e6d09b0e-3e56-4336-8c47-f1f93498aeb6",
+    "Type": 1,
+    "PaymentId": "8c514ddf-144e-4ee6-8db1-1029a9766cf8",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T12:16:00",
+      "End": "2023-03-07T13:30:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T03:47:00",
+      "End": "2023-03-10T13:53:00"
+    },
+    "Status": 1,
+    "CargoType": "Vegetable products"
+  },
+  {
+    "Id": "47b8232d-bb68-40d8-b0dc-392148c35de1",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "4ce4bb70-7280-4b6f-a5c5-5b5bb26b5d70",
+    "Type": 1,
+    "PaymentId": "4e28d551-b690-4207-8a18-ddf2493cb83a",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T23:20:00",
+      "End": "2023-03-08T01:14:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T04:10:00",
+      "End": "2023-03-11T00:16:00"
+    },
+    "Status": 6,
+    "CargoType": "Prepared foodstuffs; beverages, spirits and vinegar; tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body"
+  },
+  {
+    "Id": "8a0838fc-165b-4081-ad56-806d382ace8f",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Odesa"
+      }
+    },
+    "ClientId": "d024a155-478a-4bca-99e9-37d9c7cd8f0c",
+    "Type": 0,
+    "PaymentId": "6e20955c-d218-4177-ae1e-cf3a6f2f7f5f",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T12:41:00",
+      "End": "2023-03-08T14:36:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T04:11:00",
+      "End": "2023-03-11T13:10:00"
+    },
+    "Status": 8,
+    "CargoType": "Wood and articles of wood; wood charcoal; cork and articles of cork; manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork"
+  },
+  {
+    "Id": "f14ca626-884c-45cb-b60f-72dcf6673f82",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kharkiv"
+      }
+    },
+    "ClientId": "aa5f29e8-5d5e-46a2-ae29-c2d9d9cbe7e6",
+    "Type": 0,
+    "PaymentId": "e0ca5b06-4813-4fdb-bb57-0348bab652b4",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T18:29:00",
+      "End": "2023-03-08T19:42:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T05:25:00",
+      "End": "2023-03-11T19:06:00"
+    },
+    "Status": 6,
+    "CargoType": "Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin"
+  },
+  {
+    "Id": "78c5d03c-89dd-4a7a-ac5c-3038b9bcb780",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Rivne"
+      }
+    },
+    "ClientId": "46e566c2-8bc2-4c1a-9b9d-14e3ecb0151e",
+    "Type": 1,
+    "PaymentId": "1df01893-f43d-42c7-a3bb-3ee94e857528",
+    "LoadingPeriod": {
+      "Start": "2023-03-10T00:58:00",
+      "End": "2023-03-10T02:16:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T07:43:00",
+      "End": "2023-03-13T01:05:00"
+    },
+    "Status": 8,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "f9639dd5-5094-44d7-b59a-7cb5a10a27a7",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Chernihiv"
+      }
+    },
+    "ClientId": "fe77b251-7b04-4e69-a7f4-44d0dc7f3278",
+    "Type": 0,
+    "PaymentId": "29bb45b4-e3aa-42dc-9c0c-dd3f3b08ad32",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T09:12:00",
+      "End": "2023-03-07T10:13:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T07:56:00",
+      "End": "2023-03-10T10:39:00"
+    },
+    "Status": 7,
+    "CargoType": "Machinery and mechanical appliances; electrical equipment; parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles"
+  },
+  {
+    "Id": "d6893951-cc00-4380-ab52-d229dc80c633",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kyiv"
+      }
+    },
+    "ClientId": "46c12c24-6ec3-44e1-9189-dc7d3638a60c",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-08T18:09:00",
+      "End": "2023-03-08T20:01:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T10:34:00",
+      "End": "2023-03-11T19:09:00"
+    },
+    "Status": 6,
+    "CargoType": "Vehicles, aircraft, vessels and associated transport equipment"
+  },
+  {
+    "Id": "01c5bb0b-0f98-4bc6-8e2f-d55b536dc866",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "c4b1417a-0db4-4e12-b8f8-10353187b29e",
+    "Type": 0,
+    "PaymentId": "f91f88ba-c95e-44ca-b69f-ed7480b70a92",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T05:01:00",
+      "End": "2023-03-08T06:57:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T10:47:00",
+      "End": "2023-03-11T05:23:00"
+    },
+    "Status": 8,
+    "CargoType": "Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin"
+  },
+  {
+    "Id": "440e31dd-36e8-4bd5-9a5b-49401dbef265",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Rivne"
+      }
+    },
+    "ClientId": "fe77b251-7b04-4e69-a7f4-44d0dc7f3278",
+    "Type": 0,
+    "PaymentId": "8230741e-7e61-4a38-99ba-63bfd01f3bd6",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T05:03:00",
+      "End": "2023-03-09T06:15:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T10:47:00",
+      "End": "2023-03-12T05:58:00"
+    },
+    "Status": 6,
+    "CargoType": "Textiles and textile articles"
+  },
+  {
+    "Id": "5cad7958-afc9-4d49-be46-5498f85d6abd",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Chernihiv"
+      }
+    },
+    "ClientId": "6f06877e-d514-48a3-a22f-dc6d78aadd9f",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T11:18:00",
+      "End": "2023-03-07T13:05:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T10:57:00",
+      "End": "2023-03-10T12:48:00"
+    },
+    "Status": 7,
+    "CargoType": "Mineral products"
+  },
+  {
+    "Id": "229926cb-50c3-4ccb-9ae9-2e665ec13c5a",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "f2467cf2-2f3e-4fc9-b6d8-6678ba2a29f3",
+    "Type": 1,
+    "PaymentId": "30f53095-ae9c-4cb1-af98-311476a6b1e2",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T16:18:00",
+      "End": "2023-03-08T18:10:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T12:24:00",
+      "End": "2023-03-11T17:39:00"
+    },
+    "Status": 2,
+    "CargoType": "Base metals and articles of base metal"
+  },
+  {
+    "Id": "50912410-9eb3-4cee-98e6-972cba2688e6",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "e6d09b0e-3e56-4336-8c47-f1f93498aeb6",
+    "Type": 1,
+    "PaymentId": "fe837c39-35ba-4453-bcbd-9b527734fa5d",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T19:32:00",
+      "End": "2023-03-09T20:50:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T12:26:00",
+      "End": "2023-03-12T21:20:00"
+    },
+    "Status": 7,
+    "CargoType": "Live animals"
+  },
+  {
+    "Id": "6ba84ed8-8b0c-4fb4-88b6-e88b6d57c2bc",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Sloviansk"
+      }
+    },
+    "ClientId": "f81c98b8-96ba-4bfa-a2b3-78dcfc8a82a1",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T15:08:00",
+      "End": "2023-03-07T16:08:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T14:26:00",
+      "End": "2023-03-10T17:01:00"
+    },
+    "Status": 1,
+    "CargoType": "Miscellaneous manufactured articles"
+  },
+  {
+    "Id": "f93f96f0-fa8e-4456-9dc6-a321f33cc556",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Dnipro"
+      }
+    },
+    "ClientId": "0e0b7048-cb7c-4046-9d7c-2051b07c7e05",
+    "Type": 1,
+    "PaymentId": "a2a96656-7adf-4135-9544-39cd8305a0b6",
+    "LoadingPeriod": {
+      "Start": "2023-03-10T09:27:00",
+      "End": "2023-03-10T10:48:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T14:58:00",
+      "End": "2023-03-13T09:52:00"
+    },
+    "Status": 2,
+    "CargoType": "Footwear, headgear, umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof; prepared feathers and articles made therewith; artificial flowers; articles of human hair"
+  },
+  {
+    "Id": "b33d4870-9759-4c96-bd59-569218a76a6f",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Vinnytsia"
+      }
+    },
+    "ClientId": "0e0b7048-cb7c-4046-9d7c-2051b07c7e05",
+    "Type": 0,
+    "PaymentId": "8ee6b683-5705-4a8d-b271-c5e59c871e39",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T21:02:00",
+      "End": "2023-03-08T22:58:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T15:57:00",
+      "End": "2023-03-11T21:41:00"
+    },
+    "Status": 7,
+    "CargoType": "Plastics and articles thereof; rubber and articles thereof"
+  },
+  {
+    "Id": "a8134e0d-80d0-4f1c-8c11-53927caf8ba1",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "46e566c2-8bc2-4c1a-9b9d-14e3ecb0151e",
+    "Type": 1,
+    "PaymentId": "8b764e4f-3ae5-4a32-803e-3c32c54deace",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T18:49:00",
+      "End": "2023-03-08T20:06:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T17:06:00",
+      "End": "2023-03-11T20:24:00"
+    },
+    "Status": 3,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "5940cb6c-bade-45b2-8682-793b5b644d21",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "d024a155-478a-4bca-99e9-37d9c7cd8f0c",
+    "Type": 1,
+    "PaymentId": "7dc2b8a1-6daa-4666-accd-aed1c901ff50",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T02:03:00",
+      "End": "2023-03-09T03:35:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T17:10:00",
+      "End": "2023-03-12T03:55:00"
+    },
+    "Status": 7,
+    "CargoType": "Raw hides and skins, leather, furskins and articles thereof; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)"
+  },
+  {
+    "Id": "b8d5a2d9-f1c8-4d6b-8076-17e3b6c15a58",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Odesa"
+      }
+    },
+    "ClientId": "4b3a81df-34fa-4a10-a23a-5e5ce5b4ec34",
+    "Type": 0,
+    "PaymentId": "a0b6f2b8-ba1e-4ed9-8ff8-401d093dc1fe",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T09:20:00",
+      "End": "2023-03-08T10:38:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T17:39:00",
+      "End": "2023-03-11T09:48:00"
+    },
+    "Status": 8,
+    "CargoType": "Miscellaneous manufactured articles"
+  },
+  {
+    "Id": "57170e20-7339-470a-ba2a-4af405b29fcc",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Sloviansk"
+      }
+    },
+    "ClientId": "c4b1417a-0db4-4e12-b8f8-10353187b29e",
+    "Type": 1,
+    "PaymentId": "39be0093-14d7-42f1-8afb-d70cda08cb35",
+    "LoadingPeriod": {
+      "Start": "2023-03-10T07:06:00",
+      "End": "2023-03-10T08:44:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T18:44:00",
+      "End": "2023-03-13T07:24:00"
+    },
+    "Status": 5,
+    "CargoType": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; clocks and watches; musical instruments; parts and accessories thereof"
+  },
+  {
+    "Id": "b7c2bb45-3288-4ef6-94c1-727fe139f6b8",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Luhansk"
+      }
+    },
+    "ClientId": "55a70a63-f8c3-4d9b-81d9-304d8b2a2a3f",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-10T00:17:00",
+      "End": "2023-03-10T01:22:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T20:04:00",
+      "End": "2023-03-13T00:59:00"
+    },
+    "Status": 3,
+    "CargoType": "Miscellaneous manufactured articles"
+  },
+  {
+    "Id": "948a3e18-f0ae-4e45-ab3d-4bcc8944cf7c",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-09T18:11:00",
+      "End": "2023-03-09T19:20:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T20:08:00",
+      "End": "2023-03-12T18:30:00"
+    },
+    "Status": 7,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "67656531-96bd-48fb-80c6-c83f6ddb5ee7",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Mykolaiv"
+      }
+    },
+    "ClientId": "0e0b7048-cb7c-4046-9d7c-2051b07c7e05",
+    "Type": 1,
+    "PaymentId": "5477e8da-c76c-48b1-8455-5762b27489d1",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T09:00:00",
+      "End": "2023-03-09T10:37:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T20:57:00",
+      "End": "2023-03-12T10:35:00"
+    },
+    "Status": 6,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "f26ae26a-91a7-403c-95c6-264e7c8e298c",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Dnipro"
+      }
+    },
+    "ClientId": "963f4a43-9c17-4a8c-a5f5-02f036df835c",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T23:17:00",
+      "End": "2023-03-08T00:55:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T21:41:00",
+      "End": "2023-03-11T00:47:00"
+    },
+    "Status": 4,
+    "CargoType": "Mineral products"
+  },
+  {
+    "Id": "40607ea1-2e05-46c6-b15b-fc916e4dc663",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "fe77b251-7b04-4e69-a7f4-44d0dc7f3278",
+    "Type": 0,
+    "PaymentId": "5d555c19-315d-4dc6-a67b-4b024ca84ca1",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T15:06:00",
+      "End": "2023-03-08T17:05:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T21:45:00",
+      "End": "2023-03-11T15:11:00"
+    },
+    "Status": 1,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "9db48765-1f6a-45dc-baee-f0816774b681",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "7d6d8769-b64a-48f2-a6e7-eb5a5c5a39b5",
+    "Type": 0,
+    "PaymentId": "cbd2e339-0734-4884-a7db-8ce91e2175ff",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T03:29:00",
+      "End": "2023-03-09T04:40:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T22:45:00",
+      "End": "2023-03-12T05:21:00"
+    },
+    "Status": 1,
+    "CargoType": "Miscellaneous manufactured articles"
+  },
+  {
+    "Id": "7f16f70a-c5fd-4ba4-9e1f-71d124ca727e",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Rivne"
+      }
+    },
+    "ClientId": "57b7aa63-6b49-4b10-b6c9-6d3f3ca3b1c3",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-09T07:28:00",
+      "End": "2023-03-09T09:26:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T23:08:00",
+      "End": "2023-03-12T08:20:00"
+    },
+    "Status": 1,
+    "CargoType": "Live animals"
+  },
+  {
+    "Id": "79604767-16a7-4a52-b942-a2e58d54c94c",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "1c96f37d-775d-43c8-8b13-c0337d4e5e9d",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-08T12:18:00",
+      "End": "2023-03-08T13:22:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T23:42:00",
+      "End": "2023-03-11T13:17:00"
+    },
+    "Status": 4,
+    "CargoType": "Machinery and mechanical appliances; electrical equipment; parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles"
+  },
+  {
+    "Id": "c1709962-f6d9-499c-8b36-d0491d747740",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Luhansk"
+      }
+    },
+    "ClientId": "f3b51df3-ff7c-4c67-a7af-89d159c2124d",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-10T00:09:00",
+      "End": "2023-03-10T01:11:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-11T00:22:00",
+      "End": "2023-03-13T01:47:00"
+    },
+    "Status": 3,
+    "CargoType": "Miscellaneous manufactured articles"
+  },
+  {
+    "Id": "b2e0c47c-c8ce-4388-88e6-044e61fcddbc",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Rivne"
+      }
+    },
+    "ClientId": "46c12c24-6ec3-44e1-9189-dc7d3638a60c",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-08T20:43:00",
+      "End": "2023-03-08T22:10:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-11T00:44:00",
+      "End": "2023-03-11T22:02:00"
+    },
+    "Status": 8,
+    "CargoType": "Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin"
+  },
+  {
+    "Id": "ccb93338-28a3-4098-a0a5-04d0b71c370c",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "e6d09b0e-3e56-4336-8c47-f1f93498aeb6",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-10T20:58:00",
+      "End": "2023-03-10T22:09:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-11T01:00:00",
+      "End": "2023-03-13T22:34:00"
+    },
+    "Status": 3,
+    "CargoType": "Products of the chemical or allied industries"
+  },
+  {
+    "Id": "f4c0911e-ee02-4185-bb64-2126402c0da2",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "f2467cf2-2f3e-4fc9-b6d8-6678ba2a29f3",
+    "Type": 0,
+    "PaymentId": "faa3b52c-3b70-4fa2-b3e9-e8dc2b531129",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T18:55:00",
+      "End": "2023-03-09T19:58:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-11T01:23:00",
+      "End": "2023-03-12T20:31:00"
+    },
+    "Status": 6,
+    "CargoType": "Vegetable products"
+  },
+  {
+    "Id": "8c50ff26-45c2-4317-9deb-1b60f4c0c0bc",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Rivne"
+      }
+    },
+    "ClientId": "6bb1f6c7-6dc2-47c3-bd10-6c81e005e974",
+    "Type": 1,
+    "PaymentId": "412256e7-df27-448d-8218-a307d7c8af53",
+    "LoadingPeriod": {
+      "Start": "2023-03-10T16:59:00",
+      "End": "2023-03-10T18:30:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-11T01:50:00",
+      "End": "2023-03-13T18:44:00"
+    },
+    "Status": 3,
+    "CargoType": "Works of art, collectors\u0027 pieces and antiques"
+  },
+  {
+    "Id": "3a730d29-6e95-4b7c-857f-a4c67234b2db",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Donetsk"
+      }
+    },
+    "ClientId": "d1e91ab9-01c7-4575-a5dc-e1c22b81d05e",
+    "Type": 1,
+    "PaymentId": "481be048-38e0-4f74-b075-6dcc591a8f27",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T15:13:00",
+      "End": "2023-03-09T16:41:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-11T02:30:00",
+      "End": "2023-03-12T15:37:00"
+    },
+    "Status": 2,
+    "CargoType": "Raw hides and skins, leather, furskins and articles thereof; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)"
+  },
+  {
+    "Id": "5cbcead2-1183-44fd-86bb-4fc123149342",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Vinnytsia"
+      }
+    },
+    "ClientId": "d1e91ab9-01c7-4575-a5dc-e1c22b81d05e",
+    "Type": 1,
+    "PaymentId": "0c8c8197-24ea-4e14-bf82-3e0403ea924b",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T14:05:00",
+      "End": "2023-03-08T16:01:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-11T02:47:00",
+      "End": "2023-03-11T14:56:00"
+    },
+    "Status": 1,
+    "CargoType": "Vehicles, aircraft, vessels and associated transport equipment"
+  }
+]

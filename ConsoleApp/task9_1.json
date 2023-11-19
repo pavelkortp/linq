@@ -1,0 +1,2402 @@
+[
+  {
+    "Id": "8408b421-df76-4db4-8176-f993f1d93fce",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Sloviansk"
+      }
+    },
+    "ClientId": "f81c98b8-96ba-4bfa-a2b3-78dcfc8a82a1",
+    "Type": 1,
+    "PaymentId": "d649e029-3eac-43fe-88ad-f76cd4277d3c",
+    "LoadingPeriod": {
+      "Start": "2023-03-11T08:18:00",
+      "End": "2023-03-11T09:27:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-13T02:24:00",
+      "End": "2023-03-14T09:45:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "b24a32cb-d301-4cdf-acd0-7f512b4793c1",
+    "Direction": {
+      "Origin": {
+        "City": "Sloviansk"
+      },
+      "Destination": {
+        "City": "Chernihiv"
+      }
+    },
+    "ClientId": "57b7aa63-6b49-4b10-b6c9-6d3f3ca3b1c3",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-17T00:06:00",
+      "End": "2023-03-17T01:57:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-17T07:02:00",
+      "End": "2023-03-20T00:21:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "38d4b8e0-0689-4f22-9add-5eab4c1b71bd",
+    "Direction": {
+      "Origin": {
+        "City": "Kharkiv"
+      },
+      "Destination": {
+        "City": "Rivne"
+      }
+    },
+    "ClientId": "0e0b7048-cb7c-4046-9d7c-2051b07c7e05",
+    "Type": 0,
+    "PaymentId": "472cb7c7-21c1-44e7-ab01-20e8180def4b",
+    "LoadingPeriod": {
+      "Start": "2023-03-11T14:59:00",
+      "End": "2023-03-11T16:15:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-13T02:17:00",
+      "End": "2023-03-14T15:43:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "9d5073b3-7598-4b91-98cd-668c7120b7d3",
+    "Direction": {
+      "Origin": {
+        "City": "Donetsk"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 1,
+    "PaymentId": "ecb19267-006c-4e1c-995e-6f3615910b7e",
+    "LoadingPeriod": {
+      "Start": "2023-03-11T01:16:00",
+      "End": "2023-03-11T02:54:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-12T03:32:00",
+      "End": "2023-03-14T03:00:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "42e4315e-9d7a-4918-9092-7abb1e27cd6c",
+    "Direction": {
+      "Origin": {
+        "City": "Cherkasy"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 1,
+    "PaymentId": "060d6fdf-13c3-4057-abef-9a81c1fb50c8",
+    "LoadingPeriod": {
+      "Start": "2023-03-16T19:15:00",
+      "End": "2023-03-16T20:31:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-19T05:20:00",
+      "End": "2023-03-19T20:27:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "b1a62b03-d147-4001-b07e-deebcd69b2ba",
+    "Direction": {
+      "Origin": {
+        "City": "Donetsk"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "6bb1f6c7-6dc2-47c3-bd10-6c81e005e974",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-12T01:02:00",
+      "End": "2023-03-12T03:01:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-13T04:35:00",
+      "End": "2023-03-15T02:31:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "700f6a1d-a5ad-4aa7-b70e-7fe76c2d3dd5",
+    "Direction": {
+      "Origin": {
+        "City": "Rivne"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "d024a155-478a-4bca-99e9-37d9c7cd8f0c",
+    "Type": 0,
+    "PaymentId": "2f6d7aa2-4e82-4e74-86f8-eb59566c1a8d",
+    "LoadingPeriod": {
+      "Start": "2023-03-19T01:54:00",
+      "End": "2023-03-19T03:42:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-21T20:10:00",
+      "End": "2023-03-22T02:05:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "8c0c4d14-1ba0-4179-a060-4f414e597ed7",
+    "Direction": {
+      "Origin": {
+        "City": "Donetsk"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "851d00db-56f7-4cd1-9e7a-f2f9a317d876",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-09T19:29:00",
+      "End": "2023-03-09T21:12:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-11T09:34:00",
+      "End": "2023-03-12T21:09:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "11157879-de55-4a7f-bf85-e1209315bb61",
+    "Direction": {
+      "Origin": {
+        "City": "Kharkiv"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "1c96f37d-775d-43c8-8b13-c0337d4e5e9d",
+    "Type": 1,
+    "PaymentId": "43d64f30-f0cb-4caf-abd5-1587eafe5c67",
+    "LoadingPeriod": {
+      "Start": "2023-03-13T21:09:00",
+      "End": "2023-03-13T22:34:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-15T02:33:00",
+      "End": "2023-03-16T22:18:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "e7771bf1-de92-4c14-9c18-837b91cb938a",
+    "Direction": {
+      "Origin": {
+        "City": "Odesa"
+      },
+      "Destination": {
+        "City": "Sumy"
+      }
+    },
+    "ClientId": "87143a2e-7f49-4700-ae7c-88b2a482539e",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-19T13:46:00",
+      "End": "2023-03-19T15:08:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-19T18:21:00",
+      "End": "2023-03-22T14:35:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "bbbbe774-e09f-40fc-a756-5c2233f86dd5",
+    "Direction": {
+      "Origin": {
+        "City": "Dnipro"
+      },
+      "Destination": {
+        "City": "Cherkasy"
+      }
+    },
+    "ClientId": "6f06877e-d514-48a3-a22f-dc6d78aadd9f",
+    "Type": 1,
+    "PaymentId": "2c75c1cf-f9dd-45c3-a9c8-fb577589f0a4",
+    "LoadingPeriod": {
+      "Start": "2023-03-20T07:23:00",
+      "End": "2023-03-20T08:36:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-21T03:00:00",
+      "End": "2023-03-23T07:58:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "76416ca3-23b0-4120-957c-0719123b767f",
+    "Direction": {
+      "Origin": {
+        "City": "Odesa"
+      },
+      "Destination": {
+        "City": "Kyiv"
+      }
+    },
+    "ClientId": "4b3a81df-34fa-4a10-a23a-5e5ce5b4ec34",
+    "Type": 0,
+    "PaymentId": "7738b6f2-24d4-481a-9ef3-bddbb4226397",
+    "LoadingPeriod": {
+      "Start": "2023-03-18T23:34:00",
+      "End": "2023-03-19T00:57:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-20T14:00:00",
+      "End": "2023-03-22T01:28:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "2370f377-6950-497d-8282-fdcd5b32bad9",
+    "Direction": {
+      "Origin": {
+        "City": "Zaporizhzhia"
+      },
+      "Destination": {
+        "City": "Vinnytsia"
+      }
+    },
+    "ClientId": "963f4a43-9c17-4a8c-a5f5-02f036df835c",
+    "Type": 0,
+    "PaymentId": "a087052d-c752-405d-8a66-d7707092b05b",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T03:38:00",
+      "End": "2023-03-08T05:37:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T04:52:00",
+      "End": "2023-03-11T04:11:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "bd459e9e-ff34-42c3-b56d-4d181bb4938e",
+    "Direction": {
+      "Origin": {
+        "City": "Sumy"
+      },
+      "Destination": {
+        "City": "Donetsk"
+      }
+    },
+    "ClientId": "4ce4bb70-7280-4b6f-a5c5-5b5bb26b5d70",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-10T09:18:00",
+      "End": "2023-03-10T10:45:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-12T20:09:00",
+      "End": "2023-03-13T11:17:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "a1caa26a-29f2-43ff-94d4-5491fd5485bf",
+    "Direction": {
+      "Origin": {
+        "City": "Rivne"
+      },
+      "Destination": {
+        "City": "Sumy"
+      }
+    },
+    "ClientId": "c4b1417a-0db4-4e12-b8f8-10353187b29e",
+    "Type": 1,
+    "PaymentId": "f1e1102e-d670-4eeb-b84e-ea5edc51bc49",
+    "LoadingPeriod": {
+      "Start": "2023-03-17T04:28:00",
+      "End": "2023-03-17T05:51:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-18T03:17:00",
+      "End": "2023-03-20T05:21:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "2c8997b4-7378-42b5-b012-9b44d16f5c5d",
+    "Direction": {
+      "Origin": {
+        "City": "Chernihiv"
+      },
+      "Destination": {
+        "City": "Cherkasy"
+      }
+    },
+    "ClientId": "4b3a81df-34fa-4a10-a23a-5e5ce5b4ec34",
+    "Type": 0,
+    "PaymentId": "c0966a1a-4de4-4b9d-903a-e1246edd0be8",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T02:06:00",
+      "End": "2023-03-09T03:41:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T08:30:00",
+      "End": "2023-03-12T02:46:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "4e9df2b5-300a-498a-b437-9786180d34ea",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "55a70a63-f8c3-4d9b-81d9-304d8b2a2a3f",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-09T10:35:00",
+      "End": "2023-03-09T12:02:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T11:34:00",
+      "End": "2023-03-12T11:28:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "0897c0ff-782a-49d1-b029-f5edd902c9fc",
+    "Direction": {
+      "Origin": {
+        "City": "Sloviansk"
+      },
+      "Destination": {
+        "City": "Sumy"
+      }
+    },
+    "ClientId": "6f06877e-d514-48a3-a22f-dc6d78aadd9f",
+    "Type": 1,
+    "PaymentId": "8ff13d98-97ff-40dc-a45f-f73901c6a487",
+    "LoadingPeriod": {
+      "Start": "2023-03-20T18:57:00",
+      "End": "2023-03-20T20:41:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-21T05:36:00",
+      "End": "2023-03-23T19:22:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "97b951c6-290d-4c07-a017-15b0664252d5",
+    "Direction": {
+      "Origin": {
+        "City": "Zaporizhzhia"
+      },
+      "Destination": {
+        "City": "Zhytomyr"
+      }
+    },
+    "ClientId": "57b7aa63-6b49-4b10-b6c9-6d3f3ca3b1c3",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-11T23:01:00",
+      "End": "2023-03-12T00:12:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-14T05:39:00",
+      "End": "2023-03-14T23:44:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "548db2c9-283e-4f49-ab5c-be98b5e5811b",
+    "Direction": {
+      "Origin": {
+        "City": "Odesa"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "0e0b7048-cb7c-4046-9d7c-2051b07c7e05",
+    "Type": 1,
+    "PaymentId": "4d31a64f-f916-43dc-9ada-62f2025ca01e",
+    "LoadingPeriod": {
+      "Start": "2023-03-17T22:09:00",
+      "End": "2023-03-17T23:43:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-19T00:53:00",
+      "End": "2023-03-21T00:06:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "1a8d5f76-384a-4f4d-8a2b-205467120599",
+    "Direction": {
+      "Origin": {
+        "City": "Chernihiv"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "4b3a81df-34fa-4a10-a23a-5e5ce5b4ec34",
+    "Type": 1,
+    "PaymentId": "9471b017-4666-4297-b497-6350ad73eefb",
+    "LoadingPeriod": {
+      "Start": "2023-03-12T18:31:00",
+      "End": "2023-03-12T20:00:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-14T05:40:00",
+      "End": "2023-03-15T20:18:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "65d18f15-066f-4faf-8eba-603c40fedb16",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Cherkasy"
+      }
+    },
+    "ClientId": "87143a2e-7f49-4700-ae7c-88b2a482539e",
+    "Type": 0,
+    "PaymentId": "cb1bd644-b605-438c-a34d-a967682fc888",
+    "LoadingPeriod": {
+      "Start": "2023-03-12T18:43:00",
+      "End": "2023-03-12T19:43:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-13T12:24:00",
+      "End": "2023-03-15T19:02:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "75119e81-eaf1-433f-b3f0-628dd9130a45",
+    "Direction": {
+      "Origin": {
+        "City": "Mykolaiv"
+      },
+      "Destination": {
+        "City": "Odesa"
+      }
+    },
+    "ClientId": "f3b51df3-ff7c-4c67-a7af-89d159c2124d",
+    "Type": 1,
+    "PaymentId": "c8550e7e-1efa-4710-826b-047f14d27009",
+    "LoadingPeriod": {
+      "Start": "2023-03-15T14:07:00",
+      "End": "2023-03-15T15:33:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-16T21:47:00",
+      "End": "2023-03-18T14:23:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "e4f89929-1a78-442a-9fc4-5f1d1d675f7a",
+    "Direction": {
+      "Origin": {
+        "City": "Kharkiv"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-06T20:57:00",
+      "End": "2023-03-06T22:08:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T00:03:00",
+      "End": "2023-03-09T21:28:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "2bdb9591-035d-450f-bfec-3f62a665392d",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Donetsk"
+      }
+    },
+    "ClientId": "46e566c2-8bc2-4c1a-9b9d-14e3ecb0151e",
+    "Type": 1,
+    "PaymentId": "97cd451a-bf2d-49db-acbe-9b7e3715419a",
+    "LoadingPeriod": {
+      "Start": "2023-03-13T11:45:00",
+      "End": "2023-03-13T13:26:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-14T14:14:00",
+      "End": "2023-03-16T12:18:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "8d86fcad-4f97-4827-807b-fda367cb2432",
+    "Direction": {
+      "Origin": {
+        "City": "Kharkiv"
+      },
+      "Destination": {
+        "City": "Sloviansk"
+      }
+    },
+    "ClientId": "f81c98b8-96ba-4bfa-a2b3-78dcfc8a82a1",
+    "Type": 1,
+    "PaymentId": "37d8ee83-0468-403e-b2ab-594d1acc23a7",
+    "LoadingPeriod": {
+      "Start": "2023-03-19T14:01:00",
+      "End": "2023-03-19T15:08:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-20T09:32:00",
+      "End": "2023-03-22T14:32:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "12bfe412-7122-4a57-8f8d-833c14915e97",
+    "Direction": {
+      "Origin": {
+        "City": "Poltava"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "e6d09b0e-3e56-4336-8c47-f1f93498aeb6",
+    "Type": 0,
+    "PaymentId": "d5568b5e-8fbe-4d77-acd3-4d80e885090c",
+    "LoadingPeriod": {
+      "Start": "2023-03-18T22:31:00",
+      "End": "2023-03-18T23:48:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-20T16:26:00",
+      "End": "2023-03-21T22:39:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "b3a43828-3f21-4058-aefd-24d9cd8cb9c2",
+    "Direction": {
+      "Origin": {
+        "City": "Rivne"
+      },
+      "Destination": {
+        "City": "Vinnytsia"
+      }
+    },
+    "ClientId": "6f06877e-d514-48a3-a22f-dc6d78aadd9f",
+    "Type": 0,
+    "PaymentId": "4fdbb72a-5610-49a2-b47f-be0e0ffe4270",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T17:51:00",
+      "End": "2023-03-06T19:15:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T15:22:00",
+      "End": "2023-03-09T18:15:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "4123fd02-3edc-461e-92e8-5eb3c39f1199",
+    "Direction": {
+      "Origin": {
+        "City": "Mykolaiv"
+      },
+      "Destination": {
+        "City": "Odesa"
+      }
+    },
+    "ClientId": "0e0b7048-cb7c-4046-9d7c-2051b07c7e05",
+    "Type": 1,
+    "PaymentId": "df896a3d-deb3-42ea-bb52-3267f9356e1e",
+    "LoadingPeriod": {
+      "Start": "2023-03-15T20:41:00",
+      "End": "2023-03-15T22:31:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-17T10:54:00",
+      "End": "2023-03-18T22:29:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "981d53cf-3d6d-40de-a3ef-d8fea64883cd",
+    "Direction": {
+      "Origin": {
+        "City": "Dnipro"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "57b7aa63-6b49-4b10-b6c9-6d3f3ca3b1c3",
+    "Type": 0,
+    "PaymentId": "d06fc17a-81ba-43fb-92a0-553da76ba852",
+    "LoadingPeriod": {
+      "Start": "2023-03-14T08:05:00",
+      "End": "2023-03-14T09:26:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-14T22:00:00",
+      "End": "2023-03-17T09:35:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "69a9280a-b8d6-473d-b250-11fbe7bfae3c",
+    "Direction": {
+      "Origin": {
+        "City": "Zhytomyr"
+      },
+      "Destination": {
+        "City": "Cherkasy"
+      }
+    },
+    "ClientId": "f3b51df3-ff7c-4c67-a7af-89d159c2124d",
+    "Type": 0,
+    "PaymentId": "84c4bd06-c8d0-4d2f-b76d-a98c951620e5",
+    "LoadingPeriod": {
+      "Start": "2023-03-20T07:41:00",
+      "End": "2023-03-20T09:21:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-23T03:47:00",
+      "End": "2023-03-23T08:04:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "a6142032-7ff1-407b-882f-d2e940d4590e",
+    "Direction": {
+      "Origin": {
+        "City": "Rivne"
+      },
+      "Destination": {
+        "City": "Odesa"
+      }
+    },
+    "ClientId": "bcdb30a4-2594-4ea4-9a4f-15681c24e305",
+    "Type": 0,
+    "PaymentId": "134a2783-eae2-4dc2-b3d9-06a973e3d806",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T22:03:00",
+      "End": "2023-03-08T23:40:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T14:11:00",
+      "End": "2023-03-11T22:59:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "611e9e04-bead-4d36-9d5f-d7ff573a6967",
+    "Direction": {
+      "Origin": {
+        "City": "Kherson"
+      },
+      "Destination": {
+        "City": "Chernihiv"
+      }
+    },
+    "ClientId": "7d6d8769-b64a-48f2-a6e7-eb5a5c5a39b5",
+    "Type": 0,
+    "PaymentId": "8f9be8ae-fb7a-446a-8ce9-02ecdbf48250",
+    "LoadingPeriod": {
+      "Start": "2023-03-18T05:42:00",
+      "End": "2023-03-18T07:36:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-20T05:17:00",
+      "End": "2023-03-21T06:17:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "54092650-938f-48d0-890c-a21c8185e7aa",
+    "Direction": {
+      "Origin": {
+        "City": "Zaporizhzhia"
+      },
+      "Destination": {
+        "City": "Odesa"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 0,
+    "PaymentId": "a073ba87-560a-4357-a3ea-79e594ff5f32",
+    "LoadingPeriod": {
+      "Start": "2023-03-10T08:28:00",
+      "End": "2023-03-10T10:03:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-12T09:48:00",
+      "End": "2023-03-13T09:04:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "d2bac1a2-50be-4941-9528-034d1b5984f1",
+    "Direction": {
+      "Origin": {
+        "City": "Sumy"
+      },
+      "Destination": {
+        "City": "Lviv"
+      }
+    },
+    "ClientId": "851d00db-56f7-4cd1-9e7a-f2f9a317d876",
+    "Type": 0,
+    "PaymentId": "d324dba7-a830-43a2-9106-11f2e887de1d",
+    "LoadingPeriod": {
+      "Start": "2023-03-21T05:43:00",
+      "End": "2023-03-21T07:42:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-24T01:04:00",
+      "End": "2023-03-24T06:19:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "6d30cd24-21ac-436f-81bb-6027c5a9e231",
+    "Direction": {
+      "Origin": {
+        "City": "Sumy"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "d024a155-478a-4bca-99e9-37d9c7cd8f0c",
+    "Type": 0,
+    "PaymentId": "e48f1fe4-c9c1-44d3-bfaa-5ee1aabb38ba",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T04:25:00",
+      "End": "2023-03-09T06:02:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T14:58:00",
+      "End": "2023-03-12T04:31:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "6a007ae4-4b74-4b01-be4e-aee014015cba",
+    "Direction": {
+      "Origin": {
+        "City": "Sloviansk"
+      },
+      "Destination": {
+        "City": "Dnipro"
+      }
+    },
+    "ClientId": "f2467cf2-2f3e-4fc9-b6d8-6678ba2a29f3",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-19T07:08:00",
+      "End": "2023-03-19T08:38:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-20T02:47:00",
+      "End": "2023-03-22T07:52:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "07aa5d2b-a300-42e0-a3e4-9d5e163a80df",
+    "Direction": {
+      "Origin": {
+        "City": "Cherkasy"
+      },
+      "Destination": {
+        "City": "Odesa"
+      }
+    },
+    "ClientId": "1c96f37d-775d-43c8-8b13-c0337d4e5e9d",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-17T00:19:00",
+      "End": "2023-03-17T02:12:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-18T01:36:00",
+      "End": "2023-03-20T01:56:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "a74cd76d-4335-4a1f-b7d8-73c530afc842",
+    "Direction": {
+      "Origin": {
+        "City": "Rivne"
+      },
+      "Destination": {
+        "City": "Dnipro"
+      }
+    },
+    "ClientId": "0e0b7048-cb7c-4046-9d7c-2051b07c7e05",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-18T11:15:00",
+      "End": "2023-03-18T12:26:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-19T15:28:00",
+      "End": "2023-03-21T12:58:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "ca165b27-6b67-4f36-a0d5-05ee4f2f5e68",
+    "Direction": {
+      "Origin": {
+        "City": "Chernihiv"
+      },
+      "Destination": {
+        "City": "Kharkiv"
+      }
+    },
+    "ClientId": "87143a2e-7f49-4700-ae7c-88b2a482539e",
+    "Type": 0,
+    "PaymentId": "687f1898-1a1e-47dc-b710-d3182e45c2b9",
+    "LoadingPeriod": {
+      "Start": "2023-03-20T06:53:00",
+      "End": "2023-03-20T08:32:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-23T03:24:00",
+      "End": "2023-03-23T07:26:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "bc5aa12c-2b6c-49d9-b5da-d9a23fe474f7",
+    "Direction": {
+      "Origin": {
+        "City": "Zhytomyr"
+      },
+      "Destination": {
+        "City": "Rivne"
+      }
+    },
+    "ClientId": "87143a2e-7f49-4700-ae7c-88b2a482539e",
+    "Type": 0,
+    "PaymentId": "3e3f75c4-d531-4dd4-b835-dee56b715bd0",
+    "LoadingPeriod": {
+      "Start": "2023-03-18T07:00:00",
+      "End": "2023-03-18T08:18:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-20T12:25:00",
+      "End": "2023-03-21T07:01:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "67e431b5-be20-4453-8960-f7b33b248b98",
+    "Direction": {
+      "Origin": {
+        "City": "Luhansk"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "46e566c2-8bc2-4c1a-9b9d-14e3ecb0151e",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-14T14:19:00",
+      "End": "2023-03-14T15:57:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-15T18:50:00",
+      "End": "2023-03-17T14:54:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "b5a32df2-4567-4998-98c1-0bb4cb8d8c7e",
+    "Direction": {
+      "Origin": {
+        "City": "Zaporizhzhia"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "4ce4bb70-7280-4b6f-a5c5-5b5bb26b5d70",
+    "Type": 1,
+    "PaymentId": "d99a36f8-771a-4301-889e-17832936db5a",
+    "LoadingPeriod": {
+      "Start": "2023-03-10T18:34:00",
+      "End": "2023-03-10T20:18:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-12T08:47:00",
+      "End": "2023-03-13T20:10:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "50f83545-7450-4c2b-a587-fe30c2365c37",
+    "Direction": {
+      "Origin": {
+        "City": "Kherson"
+      },
+      "Destination": {
+        "City": "Sloviansk"
+      }
+    },
+    "ClientId": "87143a2e-7f49-4700-ae7c-88b2a482539e",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-20T10:33:00",
+      "End": "2023-03-20T11:56:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-20T23:30:00",
+      "End": "2023-03-23T12:09:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "74766873-7b54-4a9e-b9b1-80b8dddfe399",
+    "Direction": {
+      "Origin": {
+        "City": "Donetsk"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "aa5f29e8-5d5e-46a2-ae29-c2d9d9cbe7e6",
+    "Type": 1,
+    "PaymentId": "57acef90-dd5a-4352-8e03-ec39a15d9ae1",
+    "LoadingPeriod": {
+      "Start": "2023-03-19T09:03:00",
+      "End": "2023-03-19T10:51:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-21T22:02:00",
+      "End": "2023-03-22T10:55:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "3881fb81-6aa0-4443-87b4-ee880e90cfc5",
+    "Direction": {
+      "Origin": {
+        "City": "Donetsk"
+      },
+      "Destination": {
+        "City": "Odesa"
+      }
+    },
+    "ClientId": "e6d09b0e-3e56-4336-8c47-f1f93498aeb6",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-12T10:20:00",
+      "End": "2023-03-12T12:18:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-13T18:49:00",
+      "End": "2023-03-15T12:06:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "8c4fa8b7-979f-46fb-8156-225c13bc5f9d",
+    "Direction": {
+      "Origin": {
+        "City": "Kharkiv"
+      },
+      "Destination": {
+        "City": "Cherkasy"
+      }
+    },
+    "ClientId": "f3b51df3-ff7c-4c67-a7af-89d159c2124d",
+    "Type": 1,
+    "PaymentId": "a6086c71-c5f8-4e3e-90ff-4f3a261be569",
+    "LoadingPeriod": {
+      "Start": "2023-03-14T12:54:00",
+      "End": "2023-03-14T14:41:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-14T19:39:00",
+      "End": "2023-03-17T13:01:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "8ad7bf3a-ee5d-4ccd-97b1-4c53ec2f8a69",
+    "Direction": {
+      "Origin": {
+        "City": "Odesa"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "c4b1417a-0db4-4e12-b8f8-10353187b29e",
+    "Type": 0,
+    "PaymentId": "549aebc1-54fd-4516-bdfe-aba13be1ff2a",
+    "LoadingPeriod": {
+      "Start": "2023-03-10T17:02:00",
+      "End": "2023-03-10T18:28:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-13T02:48:00",
+      "End": "2023-03-13T17:46:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "565b59c4-500e-4b8f-928b-e6953ae31aee",
+    "Direction": {
+      "Origin": {
+        "City": "Kharkiv"
+      },
+      "Destination": {
+        "City": "Cherkasy"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-06T23:33:00",
+      "End": "2023-03-07T00:55:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T21:39:00",
+      "End": "2023-03-10T01:14:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "ff8a2149-86d1-408c-949b-7c10de0f0fad",
+    "Direction": {
+      "Origin": {
+        "City": "Kherson"
+      },
+      "Destination": {
+        "City": "Kyiv"
+      }
+    },
+    "ClientId": "1c96f37d-775d-43c8-8b13-c0337d4e5e9d",
+    "Type": 1,
+    "PaymentId": "7c274282-aca3-4045-8ca7-47aae52ef2b6",
+    "LoadingPeriod": {
+      "Start": "2023-03-16T19:03:00",
+      "End": "2023-03-16T20:52:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-18T05:17:00",
+      "End": "2023-03-19T19:22:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "d9e8bf40-b873-4f19-898b-60ae6cf698f0",
+    "Direction": {
+      "Origin": {
+        "City": "Kherson"
+      },
+      "Destination": {
+        "City": "Kharkiv"
+      }
+    },
+    "ClientId": "6f06877e-d514-48a3-a22f-dc6d78aadd9f",
+    "Type": 1,
+    "PaymentId": "a69d988f-5813-411f-ac38-a30c249f444c",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T23:22:00",
+      "End": "2023-03-07T00:30:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T22:14:00",
+      "End": "2023-03-10T01:06:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "693adaf3-55db-44d3-bae6-f38ad30e989d",
+    "Direction": {
+      "Origin": {
+        "City": "Kyiv"
+      },
+      "Destination": {
+        "City": "Luhansk"
+      }
+    },
+    "ClientId": "6bb1f6c7-6dc2-47c3-bd10-6c81e005e974",
+    "Type": 0,
+    "PaymentId": "e5e431a2-44a4-4f3d-a82e-0bb317db97ce",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T20:01:00",
+      "End": "2023-03-07T21:15:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T09:53:00",
+      "End": "2023-03-10T21:50:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "67bc87cc-820b-4956-a623-67cab77a660a",
+    "Direction": {
+      "Origin": {
+        "City": "Dnipro"
+      },
+      "Destination": {
+        "City": "Kyiv"
+      }
+    },
+    "ClientId": "4b3a81df-34fa-4a10-a23a-5e5ce5b4ec34",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-13T18:21:00",
+      "End": "2023-03-13T19:50:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-15T04:15:00",
+      "End": "2023-03-16T19:13:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "ddafbf21-587a-41eb-9f16-c440b2d2c527",
+    "Direction": {
+      "Origin": {
+        "City": "Luhansk"
+      },
+      "Destination": {
+        "City": "Mykolaiv"
+      }
+    },
+    "ClientId": "87143a2e-7f49-4700-ae7c-88b2a482539e",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T05:19:00",
+      "End": "2023-03-07T06:54:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T00:59:00",
+      "End": "2023-03-10T06:53:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "9f39e83c-ac3c-45fa-b972-0a77ee953df6",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 0,
+    "PaymentId": "b205ce1d-3edc-45ad-ad1e-2ead06686f12",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T18:53:00",
+      "End": "2023-03-08T20:43:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T13:08:00",
+      "End": "2023-03-11T19:15:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "5ada2659-c903-4039-a2b3-8e8e16a3fe86",
+    "Direction": {
+      "Origin": {
+        "City": "Lviv"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "0e0b7048-cb7c-4046-9d7c-2051b07c7e05",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-12T23:56:00",
+      "End": "2023-03-13T01:10:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-14T00:52:00",
+      "End": "2023-03-16T01:38:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "ff81c006-c9a5-4fd9-8113-d8671abea437",
+    "Direction": {
+      "Origin": {
+        "City": "Dnipro"
+      },
+      "Destination": {
+        "City": "Cherkasy"
+      }
+    },
+    "ClientId": "f81c98b8-96ba-4bfa-a2b3-78dcfc8a82a1",
+    "Type": 1,
+    "PaymentId": "243c0737-46e3-4baa-9fe2-683ef764e2e8",
+    "LoadingPeriod": {
+      "Start": "2023-03-18T21:16:00",
+      "End": "2023-03-18T22:47:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-21T01:06:00",
+      "End": "2023-03-21T22:46:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "c22a484b-ebcd-42ce-a796-e8a111c7ad27",
+    "Direction": {
+      "Origin": {
+        "City": "Rivne"
+      },
+      "Destination": {
+        "City": "Kyiv"
+      }
+    },
+    "ClientId": "4b3a81df-34fa-4a10-a23a-5e5ce5b4ec34",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-12T17:09:00",
+      "End": "2023-03-12T18:48:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-14T06:46:00",
+      "End": "2023-03-15T17:44:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "72b7111a-b118-4974-9f7f-05e7da2f939e",
+    "Direction": {
+      "Origin": {
+        "City": "Zaporizhzhia"
+      },
+      "Destination": {
+        "City": "Dnipro"
+      }
+    },
+    "ClientId": "963f4a43-9c17-4a8c-a5f5-02f036df835c",
+    "Type": 1,
+    "PaymentId": "182101c2-ff05-4b2c-9caf-60fb2f10dd0e",
+    "LoadingPeriod": {
+      "Start": "2023-03-20T05:06:00",
+      "End": "2023-03-20T06:32:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-21T22:42:00",
+      "End": "2023-03-23T06:11:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "7d694aa0-3752-432d-bcd5-0fea17f35b09",
+    "Direction": {
+      "Origin": {
+        "City": "Mykolaiv"
+      },
+      "Destination": {
+        "City": "Zhytomyr"
+      }
+    },
+    "ClientId": "851d00db-56f7-4cd1-9e7a-f2f9a317d876",
+    "Type": 1,
+    "PaymentId": "bd6c1cf5-ea56-4b0a-8b32-23847f7e73c7",
+    "LoadingPeriod": {
+      "Start": "2023-03-19T12:51:00",
+      "End": "2023-03-19T13:53:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-21T12:35:00",
+      "End": "2023-03-22T13:43:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "d9f8f9dc-946e-4877-82c6-c77d50fe334f",
+    "Direction": {
+      "Origin": {
+        "City": "Odesa"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "55a70a63-f8c3-4d9b-81d9-304d8b2a2a3f",
+    "Type": 1,
+    "PaymentId": "e8adf899-e812-4078-89ba-ab2363bd8e3f",
+    "LoadingPeriod": {
+      "Start": "2023-03-19T16:40:00",
+      "End": "2023-03-19T18:08:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-22T12:56:00",
+      "End": "2023-03-22T18:28:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "5a252326-6db1-4015-8e45-4abdfe0e373a",
+    "Direction": {
+      "Origin": {
+        "City": "Sloviansk"
+      },
+      "Destination": {
+        "City": "Zhytomyr"
+      }
+    },
+    "ClientId": "4ce4bb70-7280-4b6f-a5c5-5b5bb26b5d70",
+    "Type": 1,
+    "PaymentId": "3c2266f6-7b91-40c6-9eda-0d90c8ff7e49",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T08:08:00",
+      "End": "2023-03-09T09:13:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-11T21:48:00",
+      "End": "2023-03-12T08:23:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "89313835-fe0c-40a6-a3c9-23e1aca2829a",
+    "Direction": {
+      "Origin": {
+        "City": "Vinnytsia"
+      },
+      "Destination": {
+        "City": "Kharkiv"
+      }
+    },
+    "ClientId": "6f06877e-d514-48a3-a22f-dc6d78aadd9f",
+    "Type": 0,
+    "PaymentId": "265f63b9-a436-4121-bebe-6fc908be8f46",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T16:12:00",
+      "End": "2023-03-07T17:56:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T00:31:00",
+      "End": "2023-03-10T17:23:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "330a1202-68cf-4360-a556-e77cb93d95eb",
+    "Direction": {
+      "Origin": {
+        "City": "Rivne"
+      },
+      "Destination": {
+        "City": "Vinnytsia"
+      }
+    },
+    "ClientId": "fe77b251-7b04-4e69-a7f4-44d0dc7f3278",
+    "Type": 0,
+    "PaymentId": "f052cd16-7ef0-4298-b8f9-fd46019366a4",
+    "LoadingPeriod": {
+      "Start": "2023-03-13T07:24:00",
+      "End": "2023-03-13T08:26:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-16T03:00:00",
+      "End": "2023-03-16T07:46:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "c6316540-176f-47f1-8502-8ea5d53b7ae1",
+    "Direction": {
+      "Origin": {
+        "City": "Cherkasy"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "bcdb30a4-2594-4ea4-9a4f-15681c24e305",
+    "Type": 0,
+    "PaymentId": "2c025b74-7425-48b3-b674-b5626bcf288e",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T20:08:00",
+      "End": "2023-03-07T22:05:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T10:45:00",
+      "End": "2023-03-10T21:14:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "37f354a4-00dc-495d-8cd5-3b6ca0c95a8d",
+    "Direction": {
+      "Origin": {
+        "City": "Luhansk"
+      },
+      "Destination": {
+        "City": "Cherkasy"
+      }
+    },
+    "ClientId": "e6d09b0e-3e56-4336-8c47-f1f93498aeb6",
+    "Type": 0,
+    "PaymentId": "58f37cc3-d986-4618-a064-1492545523ef",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T14:48:00",
+      "End": "2023-03-06T16:05:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T21:30:00",
+      "End": "2023-03-09T16:32:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "347393b3-e204-4552-b149-19cdda6a6b20",
+    "Direction": {
+      "Origin": {
+        "City": "Odesa"
+      },
+      "Destination": {
+        "City": "Rivne"
+      }
+    },
+    "ClientId": "d024a155-478a-4bca-99e9-37d9c7cd8f0c",
+    "Type": 0,
+    "PaymentId": "14c05ccb-509a-4290-b263-633ad49be117",
+    "LoadingPeriod": {
+      "Start": "2023-03-16T18:01:00",
+      "End": "2023-03-16T19:25:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-17T09:00:00",
+      "End": "2023-03-19T18:39:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "881400b1-ec8e-445a-bcd7-6c5abdcbe8a9",
+    "Direction": {
+      "Origin": {
+        "City": "Rivne"
+      },
+      "Destination": {
+        "City": "Kharkiv"
+      }
+    },
+    "ClientId": "57b7aa63-6b49-4b10-b6c9-6d3f3ca3b1c3",
+    "Type": 0,
+    "PaymentId": "3e8d0f44-b538-42a5-aef1-43b3e38ea746",
+    "LoadingPeriod": {
+      "Start": "2023-03-17T13:21:00",
+      "End": "2023-03-17T15:20:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-19T09:52:00",
+      "End": "2023-03-20T14:43:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "41063bd6-d834-4e91-9430-318d014b7ca5",
+    "Direction": {
+      "Origin": {
+        "City": "Vinnytsia"
+      },
+      "Destination": {
+        "City": "Sumy"
+      }
+    },
+    "ClientId": "f81c98b8-96ba-4bfa-a2b3-78dcfc8a82a1",
+    "Type": 0,
+    "PaymentId": "1016acf3-69cd-420b-8d00-a6e7b9f6928e",
+    "LoadingPeriod": {
+      "Start": "2023-03-18T10:42:00",
+      "End": "2023-03-18T12:27:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-21T06:53:00",
+      "End": "2023-03-21T12:18:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "060cc9b6-8bca-438e-be24-63972209dca5",
+    "Direction": {
+      "Origin": {
+        "City": "Cherkasy"
+      },
+      "Destination": {
+        "City": "Zhytomyr"
+      }
+    },
+    "ClientId": "fe77b251-7b04-4e69-a7f4-44d0dc7f3278",
+    "Type": 1,
+    "PaymentId": "0aa6cbaa-2549-4bc3-850d-16ce4d479a86",
+    "LoadingPeriod": {
+      "Start": "2023-03-14T07:41:00",
+      "End": "2023-03-14T08:56:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-14T12:59:00",
+      "End": "2023-03-17T09:39:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "aa1cc229-aedb-470b-bb12-a0cbe34139e5",
+    "Direction": {
+      "Origin": {
+        "City": "Sloviansk"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "aa5f29e8-5d5e-46a2-ae29-c2d9d9cbe7e6",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-13T06:03:00",
+      "End": "2023-03-13T07:34:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-14T12:04:00",
+      "End": "2023-03-16T07:12:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "de19c0dc-9c93-4061-bfd8-fdc61c3ab49c",
+    "Direction": {
+      "Origin": {
+        "City": "Donetsk"
+      },
+      "Destination": {
+        "City": "Sumy"
+      }
+    },
+    "ClientId": "c4b1417a-0db4-4e12-b8f8-10353187b29e",
+    "Type": 0,
+    "PaymentId": "55151a34-3b99-4031-ad5e-8a5dabae1e66",
+    "LoadingPeriod": {
+      "Start": "2023-03-12T12:29:00",
+      "End": "2023-03-12T14:26:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-13T14:15:00",
+      "End": "2023-03-15T14:16:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "ac72f743-2c75-4c39-88a2-5b355d8d4cf3",
+    "Direction": {
+      "Origin": {
+        "City": "Odesa"
+      },
+      "Destination": {
+        "City": "Sloviansk"
+      }
+    },
+    "ClientId": "fe77b251-7b04-4e69-a7f4-44d0dc7f3278",
+    "Type": 1,
+    "PaymentId": "faa310ba-81fa-4ad1-b4f9-a31dc8085010",
+    "LoadingPeriod": {
+      "Start": "2023-03-16T02:36:00",
+      "End": "2023-03-16T03:46:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-16T14:38:00",
+      "End": "2023-03-19T04:12:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "2be050c9-7dd2-4dce-a987-65cebb1559fc",
+    "Direction": {
+      "Origin": {
+        "City": "Kherson"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "1c96f37d-775d-43c8-8b13-c0337d4e5e9d",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-09T18:58:00",
+      "End": "2023-03-09T20:16:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-11T01:03:00",
+      "End": "2023-03-12T19:05:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "62f8dcf5-cc0b-4d00-930e-d169a4fa8dd9",
+    "Direction": {
+      "Origin": {
+        "City": "Sumy"
+      },
+      "Destination": {
+        "City": "Donetsk"
+      }
+    },
+    "ClientId": "46e566c2-8bc2-4c1a-9b9d-14e3ecb0151e",
+    "Type": 1,
+    "PaymentId": "44951289-9844-452f-8255-0ab7e796b042",
+    "LoadingPeriod": {
+      "Start": "2023-03-15T11:08:00",
+      "End": "2023-03-15T12:26:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-15T22:33:00",
+      "End": "2023-03-18T13:02:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "1aa75c54-44ed-4b53-9a96-735db8ee089d",
+    "Direction": {
+      "Origin": {
+        "City": "Sloviansk"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "46c12c24-6ec3-44e1-9189-dc7d3638a60c",
+    "Type": 0,
+    "PaymentId": "df2fcfed-8144-4194-8c06-60948beb8de6",
+    "LoadingPeriod": {
+      "Start": "2023-03-14T23:59:00",
+      "End": "2023-03-15T01:43:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-15T22:43:00",
+      "End": "2023-03-18T00:23:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "20c0fbad-23dd-4e0a-bcb5-a98bdb329777",
+    "Direction": {
+      "Origin": {
+        "City": "Sloviansk"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "55a70a63-f8c3-4d9b-81d9-304d8b2a2a3f",
+    "Type": 0,
+    "PaymentId": "c636df86-c5b1-4a4d-b52c-97990ef4c924",
+    "LoadingPeriod": {
+      "Start": "2023-03-20T16:23:00",
+      "End": "2023-03-20T17:59:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-21T13:43:00",
+      "End": "2023-03-23T16:47:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "56319560-8d69-499d-9e46-b9e1f8b623e0",
+    "Direction": {
+      "Origin": {
+        "City": "Chernihiv"
+      },
+      "Destination": {
+        "City": "Kharkiv"
+      }
+    },
+    "ClientId": "87143a2e-7f49-4700-ae7c-88b2a482539e",
+    "Type": 0,
+    "PaymentId": "2f57a597-f483-4ecf-9042-8f2f2a1e8b57",
+    "LoadingPeriod": {
+      "Start": "2023-03-10T04:22:00",
+      "End": "2023-03-10T06:03:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-12T08:45:00",
+      "End": "2023-03-13T05:40:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "906e188f-846b-44fc-b0a4-6895c8964b70",
+    "Direction": {
+      "Origin": {
+        "City": "Vinnytsia"
+      },
+      "Destination": {
+        "City": "Mykolaiv"
+      }
+    },
+    "ClientId": "fe77b251-7b04-4e69-a7f4-44d0dc7f3278",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-19T23:08:00",
+      "End": "2023-03-20T00:38:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-20T05:55:00",
+      "End": "2023-03-23T00:11:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "3972fecf-827c-4bd7-afee-e65e88817630",
+    "Direction": {
+      "Origin": {
+        "City": "Rivne"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "fe77b251-7b04-4e69-a7f4-44d0dc7f3278",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-20T10:45:00",
+      "End": "2023-03-20T12:26:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-21T02:41:00",
+      "End": "2023-03-23T11:18:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "73026d8c-d883-46de-87a6-90c189a74298",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Luhansk"
+      }
+    },
+    "ClientId": "87143a2e-7f49-4700-ae7c-88b2a482539e",
+    "Type": 1,
+    "PaymentId": "d7395178-b232-40b6-8910-ba0c6575b0ec",
+    "LoadingPeriod": {
+      "Start": "2023-03-19T22:37:00",
+      "End": "2023-03-19T23:49:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-22T16:00:00",
+      "End": "2023-03-23T00:04:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "0bc291fc-8158-4959-a3fa-ec6305ea0445",
+    "Direction": {
+      "Origin": {
+        "City": "Kharkiv"
+      },
+      "Destination": {
+        "City": "Chernihiv"
+      }
+    },
+    "ClientId": "7d6d8769-b64a-48f2-a6e7-eb5a5c5a39b5",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-17T14:00:00",
+      "End": "2023-03-17T15:18:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-17T18:04:00",
+      "End": "2023-03-20T14:30:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "110439f4-9e4d-4731-8775-b946e25e3c77",
+    "Direction": {
+      "Origin": {
+        "City": "Rivne"
+      },
+      "Destination": {
+        "City": "Zhytomyr"
+      }
+    },
+    "ClientId": "57b7aa63-6b49-4b10-b6c9-6d3f3ca3b1c3",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T20:17:00",
+      "End": "2023-03-07T21:53:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-08T20:28:00",
+      "End": "2023-03-10T22:03:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "9afb84e8-bac0-4071-b089-bb9fd73ca3b4",
+    "Direction": {
+      "Origin": {
+        "City": "Mariupol"
+      },
+      "Destination": {
+        "City": "Kyiv"
+      }
+    },
+    "ClientId": "d1e91ab9-01c7-4575-a5dc-e1c22b81d05e",
+    "Type": 1,
+    "PaymentId": "124a3631-6a89-4969-835e-e26460120141",
+    "LoadingPeriod": {
+      "Start": "2023-03-09T18:55:00",
+      "End": "2023-03-09T20:05:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-12T04:47:00",
+      "End": "2023-03-12T20:35:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "48c21063-8d31-463b-b3fd-61b263ba07f2",
+    "Direction": {
+      "Origin": {
+        "City": "Cherkasy"
+      },
+      "Destination": {
+        "City": "Chernihiv"
+      }
+    },
+    "ClientId": "c4b1417a-0db4-4e12-b8f8-10353187b29e",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T09:30:00",
+      "End": "2023-03-07T11:06:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T05:06:00",
+      "End": "2023-03-10T11:08:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "784f00dd-0333-4932-89ae-d3067ecc4ba1",
+    "Direction": {
+      "Origin": {
+        "City": "Chernihiv"
+      },
+      "Destination": {
+        "City": "Zhytomyr"
+      }
+    },
+    "ClientId": "d024a155-478a-4bca-99e9-37d9c7cd8f0c",
+    "Type": 1,
+    "PaymentId": "207cf843-6d83-44d8-9fd8-2f93f464b85b",
+    "LoadingPeriod": {
+      "Start": "2023-03-11T18:41:00",
+      "End": "2023-03-11T20:02:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-14T18:21:00",
+      "End": "2023-03-14T19:12:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "87cad331-dc30-4d92-879e-c5fa7854ac01",
+    "Direction": {
+      "Origin": {
+        "City": "Mariupol"
+      },
+      "Destination": {
+        "City": "Sloviansk"
+      }
+    },
+    "ClientId": "1c96f37d-775d-43c8-8b13-c0337d4e5e9d",
+    "Type": 0,
+    "PaymentId": "11386c25-f337-4511-a758-43bf6a0f283e",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T02:03:00",
+      "End": "2023-03-08T03:54:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T09:20:00",
+      "End": "2023-03-11T02:56:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "d544ac45-d9bc-41f9-b686-1f3ae6a915af",
+    "Direction": {
+      "Origin": {
+        "City": "Donetsk"
+      },
+      "Destination": {
+        "City": "Kryvyi Rih"
+      }
+    },
+    "ClientId": "57b7aa63-6b49-4b10-b6c9-6d3f3ca3b1c3",
+    "Type": 1,
+    "PaymentId": "a2326721-d61f-44e4-a322-5cf4ec30c7ff",
+    "LoadingPeriod": {
+      "Start": "2023-03-19T10:16:00",
+      "End": "2023-03-19T11:33:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-22T07:12:00",
+      "End": "2023-03-22T11:58:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "f3a29a95-1659-4ae4-955e-8c222bb1a6b8",
+    "Direction": {
+      "Origin": {
+        "City": "Sumy"
+      },
+      "Destination": {
+        "City": "Chernihiv"
+      }
+    },
+    "ClientId": "bcdb30a4-2594-4ea4-9a4f-15681c24e305",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-08T13:52:00",
+      "End": "2023-03-08T15:46:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-11T01:16:00",
+      "End": "2023-03-11T14:38:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "1e667e5d-73b3-4daa-8347-dbb0497e2958",
+    "Direction": {
+      "Origin": {
+        "City": "Chernihiv"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "55a70a63-f8c3-4d9b-81d9-304d8b2a2a3f",
+    "Type": 0,
+    "PaymentId": "eac037f4-3e4e-4c90-86e5-37ca9cd27ad5",
+    "LoadingPeriod": {
+      "Start": "2023-03-16T07:10:00",
+      "End": "2023-03-16T09:00:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-19T06:51:00",
+      "End": "2023-03-19T08:23:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "5608fd13-2ab1-4e82-b858-b654d58df526",
+    "Direction": {
+      "Origin": {
+        "City": "Kherson"
+      },
+      "Destination": {
+        "City": "Luhansk"
+      }
+    },
+    "ClientId": "963f4a43-9c17-4a8c-a5f5-02f036df835c",
+    "Type": 0,
+    "PaymentId": "fffe2ec5-75cc-4042-bacc-21c78da89762",
+    "LoadingPeriod": {
+      "Start": "2023-03-12T03:24:00",
+      "End": "2023-03-12T04:56:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-14T16:06:00",
+      "End": "2023-03-15T04:39:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "3fdcc2a0-913d-479f-a507-003140376d84",
+    "Direction": {
+      "Origin": {
+        "City": "Rivne"
+      },
+      "Destination": {
+        "City": "Cherkasy"
+      }
+    },
+    "ClientId": "e6d09b0e-3e56-4336-8c47-f1f93498aeb6",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-13T10:30:00",
+      "End": "2023-03-13T11:50:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-16T08:59:00",
+      "End": "2023-03-16T11:05:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "523f127d-7e6d-4601-a64e-8478fc446280",
+    "Direction": {
+      "Origin": {
+        "City": "Kherson"
+      },
+      "Destination": {
+        "City": "Odesa"
+      }
+    },
+    "ClientId": "fe77b251-7b04-4e69-a7f4-44d0dc7f3278",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-16T15:59:00",
+      "End": "2023-03-16T17:55:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-19T15:43:00",
+      "End": "2023-03-19T16:21:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "9198b33d-d354-4506-8d78-5d3c5b600a01",
+    "Direction": {
+      "Origin": {
+        "City": "Dnipro"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "57b7aa63-6b49-4b10-b6c9-6d3f3ca3b1c3",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-08T04:01:00",
+      "End": "2023-03-08T05:33:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T11:44:00",
+      "End": "2023-03-11T05:03:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "6e9f824a-a499-4496-ab27-450354de0d40",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Sumy"
+      }
+    },
+    "ClientId": "7d6d8769-b64a-48f2-a6e7-eb5a5c5a39b5",
+    "Type": 1,
+    "PaymentId": "74e8b660-b18e-4270-88a3-05f043b03d33",
+    "LoadingPeriod": {
+      "Start": "2023-03-21T08:47:00",
+      "End": "2023-03-21T10:38:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-21T16:34:00",
+      "End": "2023-03-24T08:49:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "b93efd44-9bfe-434a-8e0f-5d2f83cd0656",
+    "Direction": {
+      "Origin": {
+        "City": "Mykolaiv"
+      },
+      "Destination": {
+        "City": "Dnipro"
+      }
+    },
+    "ClientId": "0e0b7048-cb7c-4046-9d7c-2051b07c7e05",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-10T06:43:00",
+      "End": "2023-03-10T07:48:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-12T23:57:00",
+      "End": "2023-03-13T07:19:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "ab50b9d0-ad32-47e4-9919-4e85bf5ec6e4",
+    "Direction": {
+      "Origin": {
+        "City": "Donetsk"
+      },
+      "Destination": {
+        "City": "Luhansk"
+      }
+    },
+    "ClientId": "6f06877e-d514-48a3-a22f-dc6d78aadd9f",
+    "Type": 0,
+    "PaymentId": "3bb95fe7-da2c-4631-9960-6a1e34512c68",
+    "LoadingPeriod": {
+      "Start": "2023-03-16T16:26:00",
+      "End": "2023-03-16T18:22:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-17T17:38:00",
+      "End": "2023-03-19T17:22:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "aa0e45ac-3667-4a7b-b89e-303d38b2ac54",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Poltava"
+      }
+    },
+    "ClientId": "e6d09b0e-3e56-4336-8c47-f1f93498aeb6",
+    "Type": 0,
+    "PaymentId": "a64bdf02-818f-41f3-b0b7-d74009ffe72b",
+    "LoadingPeriod": {
+      "Start": "2023-03-08T15:37:00",
+      "End": "2023-03-08T16:58:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-10T22:56:00",
+      "End": "2023-03-11T17:24:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "e5679522-b1c6-4c9a-b472-a2de14446fd2",
+    "Direction": {
+      "Origin": {
+        "City": "Vinnytsia"
+      },
+      "Destination": {
+        "City": "Luhansk"
+      }
+    },
+    "ClientId": "6bb1f6c7-6dc2-47c3-bd10-6c81e005e974",
+    "Type": 1,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-08T04:27:00",
+      "End": "2023-03-08T06:15:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T00:33:00",
+      "End": "2023-03-11T05:41:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  },
+  {
+    "Id": "0eec63d6-29ea-434f-a113-d74a0af209eb",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Rivne"
+      }
+    },
+    "ClientId": "d024a155-478a-4bca-99e9-37d9c7cd8f0c",
+    "Type": 1,
+    "PaymentId": "f13896e5-4c9e-44eb-a7d2-7dd1af7de900",
+    "LoadingPeriod": {
+      "Start": "2023-03-18T22:28:00",
+      "End": "2023-03-18T23:51:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-20T08:41:00",
+      "End": "2023-03-22T00:26:00"
+    },
+    "Status": 4,
+    "CargoType": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes"
+  }
+]
