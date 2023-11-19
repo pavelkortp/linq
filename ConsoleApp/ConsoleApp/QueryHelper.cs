@@ -55,7 +55,8 @@ public class QueryHelper : IQueryHelper
         DeliveryType type)
     {
         return deliveries
-            .Where((e) => e.Direction.Origin.City == cityName && e.Type == type); // Чомусь коли юзаю Take(10) тест падає???
+            .Where((e) =>
+                e.Direction.Origin.City == cityName && e.Type == type); // Чомусь коли юзаю Take(10) тест падає???
     }
 
     /// <summary>
@@ -69,7 +70,11 @@ public class QueryHelper : IQueryHelper
     /// <summary>
     /// Count unique cargo types
     /// </summary>
-    public int CountUniqCargoTypes(IEnumerable<Delivery> deliveries) => 0; //TODO: Завдання 6
+    public int CountUniqCargoTypes(IEnumerable<Delivery> deliveries) => deliveries
+        .Select((e) => e.CargoType)
+        .Distinct()
+        .Count();
+
 
     /// <summary>
     /// Group deliveries by status and count deliveries in each group
