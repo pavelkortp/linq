@@ -85,10 +85,28 @@ public class QueryHelper : IQueryHelper
             .ToDictionary((g) => g.Key, (g) => g.Count());
 
     /// <summary>
-    /// Group deliveries by start-end city pairs and calculate average gap between end of loading period and start of arrival period (calculate in minutes)
+    /// Group deliveries by start-end city pairs and calculate average gap between end of loading period and start
+    /// of arrival period (calculate in minutes)
     /// </summary>
     public IEnumerable<AverageGapsInfo> AverageTravelTimePerDirection(IEnumerable<Delivery> deliveries) =>
-        new List<AverageGapsInfo>(); //TODO: Завдання 8
+        deliveries
+            .GroupBy((e) => new
+            {
+                StartCity = e.Direction.Origin.City!,
+                EndCity = e.Direction.Destination.City!
+            })
+            .Select((g) =>
+            {
+                var gs = new AverageGapsInfo
+                {
+                    StartCity = g.Key.StartCity,
+                    EndCity = g.Key.EndCity,
+                    AverageGap = g.Average(d => (d.ArrivalPeriod.Start?.Minute - d.LoadingPeriod.End?.Minute)!.Value)
+                };
+                Console.WriteLine(gs.AverageGap);
+                return gs;
+            });//NOT WORKING
+            
 
     /// <summary>
     /// Paging helper
@@ -97,5 +115,10 @@ public class QueryHelper : IQueryHelper
         Func<TElement, TOrderingKey> ordering,
         Func<TElement, bool>? filter = null,
         int countOnPage = 100,
-        int pageNumber = 1) => new List<TElement>(); //TODO: Завдання 9 
+        int pageNumber = 1) => 
+        elements
+            .Where(filter ?? (e => true))
+            .OrderBy(ordering)
+            .Skip((pageNumber - 1) * countOnPage)
+            .Take(countOnPage);
 }
