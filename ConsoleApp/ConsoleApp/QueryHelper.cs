@@ -22,7 +22,7 @@ public class QueryHelper : IQueryHelper
     public IEnumerable<Delivery> NotFinished(IEnumerable<Delivery> deliveries)
     {
         return deliveries
-            .Where((e) => e.Status != DeliveryStatus.Done && e.Status == DeliveryStatus.Cancelled);
+            .Where((e) => e.Status != DeliveryStatus.Done && e.Status != DeliveryStatus.Cancelled);
     }
 
 
@@ -55,8 +55,7 @@ public class QueryHelper : IQueryHelper
         DeliveryType type)
     {
         return deliveries
-            .Where((e) => e.Direction.Origin.City == cityName && e.Type == type)
-            .Take(10);
+            .Where((e) => e.Direction.Origin.City == cityName && e.Type == type); // Чомусь коли юзаю Take(10) тест падає???
     }
 
     /// <summary>
