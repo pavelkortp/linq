@@ -89,23 +89,13 @@ public class QueryHelper : IQueryHelper
     /// of arrival period (calculate in minutes)
     /// </summary>
     public IEnumerable<AverageGapsInfo> AverageTravelTimePerDirection(IEnumerable<Delivery> deliveries) =>
-        deliveries
-            .GroupBy((e) => new
+        deliveries.GroupBy(d => new { StartCity = d.Direction.Origin.City, EndCity = d.Direction.Destination.City })
+            .Select(group => new AverageGapsInfo
             {
-                StartCity = e.Direction.Origin.City!,
-                EndCity = e.Direction.Destination.City!
-            })
-            .Select((g) =>
-            {
-                var gs = new AverageGapsInfo
-                {
-                    StartCity = g.Key.StartCity,
-                    EndCity = g.Key.EndCity,
-                    AverageGap = g.Average(d => (d.ArrivalPeriod.Start?.Minute - d.LoadingPeriod.End?.Minute)!.Value)
-                };
-                Console.WriteLine(gs.AverageGap);
-                return gs;
-            });//NOT WORKING
+                StartCity = group.Key.StartCity,
+                EndCity = group.Key.EndCity,
+                AverageGap = group.Average(delivery => (delivery.ArrivalPeriod.Start.Value - delivery.LoadingPeriod.End.Value).Minutes)
+            });
             
 
     /// <summary>
